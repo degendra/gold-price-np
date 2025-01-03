@@ -1,0 +1,12 @@
+{
+  "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+  "datasets": [
+    {
+      "label": "Trend Data 2024",
+      "data": [65, 59, 80, 81, 56, 55],
+      "borderColor": "#2196f3",
+      "tension": 0.4,
+      "fill": false
+    }
+  ]
+} 
