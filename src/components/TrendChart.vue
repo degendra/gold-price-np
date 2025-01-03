@@ -1,11 +1,11 @@
-<template>
+<template lang="html">
   <div class="chart-container">
-    <Line :data="chartData" :options="chartOptions" />
+    <LineGraph :data="chartData" :options="chartOptions" />
   </div>
 </template>
 
-<script>
-import { Line } from 'vue-chartjs'
+<script scoped lang="ts">
+import { Line as LineGraph } from 'vue-chartjs'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -14,23 +14,15 @@ import {
   LineElement,
   Title,
   Tooltip,
-  Legend
+  Legend,
 } from 'chart.js'
 import trendData from '@/assets/trend-data.json'
 
-ChartJS.register(
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  Title,
-  Tooltip,
-  Legend
-)
+ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend)
 
 export default {
   name: 'TrendChart',
-  components: { Line },
+  components: { LineGraph },
   data() {
     return {
       chartData: trendData,
@@ -43,20 +35,20 @@ export default {
           },
           title: {
             display: true,
-            text: 'Trend Analysis'
-          }
-        }
-      }
+            text: 'Trend Analysis',
+          },
+        },
+      },
     }
-  }
+  },
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .chart-container {
   height: 100%;
   width: 100%;
   margin: 0;
   padding: 10px;
 }
-</style> 
+</style>

@@ -7,18 +7,18 @@
   </div>
 </template>
 
-<script>
+<script scoped lang="ts">
 import TrendChart from '@/components/TrendChart.vue'
 
 export default {
-  name: 'Home',
+  name: 'HomePage',
   components: {
-    TrendChart
-  }
+    TrendChart,
+  },
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .home {
   min-height: 100vh;
   width: 100vw;
@@ -34,7 +34,7 @@ export default {
   margin: 0;
   background: white;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 20px;
 }
 
@@ -44,4 +44,4 @@ h1 {
   padding: 10px 0;
   color: #333;
 }
-</style> 
+</style>
