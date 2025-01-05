@@ -1,5 +1,25 @@
 [
   {
+    "Date_AD": "01/05/2025",
+    "Date_BS": "09/21/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "01/03/2025",
+    "Date_BS": "09/19/2081",
+    "Gold_Price_Per_Tola": "153500"
+  },
+  {
+    "Date_AD": "01/02/2025",
+    "Date_BS": "09/18/2081",
+    "Gold_Price_Per_Tola": "151500"
+  },
+  {
+    "Date_AD": "01/01/2025",
+    "Date_BS": "09/17/2081",
+    "Gold_Price_Per_Tola": "151000"
+  },
+  {
     "Date_AD": "12/31/2024",
     "Date_BS": "09/16/2081",
     "Gold_Price_Per_Tola": "149600"
