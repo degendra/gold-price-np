@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add assets/*.json
+          git add src/assets/*.json
           git commit -m "Scraped gold data"
           git push
         env:
