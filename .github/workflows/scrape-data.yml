@@ -2,8 +2,9 @@ name: Scrape Data
 
 on:
   schedule:
-    # This will trigger the workflow every 6 hours
-    - cron: '0 */6 * * *' # At minute 0 past every 6th hour
+    - cron: '15 5 * * *' # At 5:15 AM UTC (11 AM NST)
+    - cron: '15 6 * * *' # At 6:15 AM UTC (12 PM NST)
+    - cron: '15 11 * * *' # At 11:15 AM UTC (5 PM NST)
 
   # You can also manually trigger the workflow if needed
   workflow_dispatch:
