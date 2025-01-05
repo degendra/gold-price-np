@@ -37,7 +37,8 @@ export const chartData: ChartJSData = {
 export const latestData = sortedData[sortedData.length - 1];
 
 export function getTableData(yearStr: string, monthStr: string): TableData[] {
-  const rSortedData = jsonData.sort((a, b) => { return new Date(b.Date_AD).getTime() - new Date(a.Date_AD).getTime(); });
+  let rSortedData = [...sortedData];
+  rSortedData = rSortedData.sort((a, b) => { return new Date(b.Date_AD).getTime() - new Date(a.Date_AD).getTime(); });
   const year = Number(yearStr);
   const month = Number(monthStr);
 
