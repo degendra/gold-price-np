@@ -54,25 +54,17 @@ async function scrapeGoldRates() {
       }
     })
 
-    // Output the scraped data to console (or return as needed)
-    console.log(goldData)
     // Define the output file path in the assets folder
     const outputPath = path.join(__dirname, '../assets', 'trend-data.json')
-
     // Write the scraped data to a JSON file in the assets folder
     fs.writeFileSync(outputPath, JSON.stringify(goldData, null, 2), 'utf-8')
-
     console.log(`Successfully scraped and saved data to ${outputPath}`)
-
     // Get today's date in YYYY-MM-DD format
     const todayDate = getTodayDate()
-
     // Define the output file path in the assets folder with today's date
     const dateOutputPath = path.join(__dirname, '../assets', `trend-data-${todayDate}.json`)
-
     // Write the scraped data to a JSON file in the assets folder
     fs.writeFileSync(dateOutputPath, JSON.stringify(goldData, null, 2), 'utf-8')
-
     console.log(`Successfully scraped and saved data to ${dateOutputPath}`)
   } catch (error) {
     console.error('Error scraping gold rates:', error)
