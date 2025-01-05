@@ -29,6 +29,9 @@
     </div>
     <div class="chart-wrapper">
       <LineChart :data="chartFilteredData" :options="options" />
+      <div class="chart-footer">
+        <p>Source: <a href="https://gahanaonline.com/gold-rate-history/" target="_blank" rel="noopener noreferrer">Gahana Online</a></p>
+      </div>
     </div>
   </div>
 </template>
@@ -148,6 +151,26 @@ export default {
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 20px;
+  position: relative;
+}
+
+.chart-footer {
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+  font-size: 0.8rem;
+  color: #666;
+
+  a {
+    color: #d4af37;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #b8860b;
+      text-decoration: underline;
+    }
+  }
 }
 
 .today-price {

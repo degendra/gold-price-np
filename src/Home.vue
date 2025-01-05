@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Gold Price Per Tola Historical Data</h1>
+    <h1>Gold Price Per Tola Trend</h1>
     <div>
       <TrendChart />
     </div>
