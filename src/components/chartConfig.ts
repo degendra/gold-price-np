@@ -28,6 +28,8 @@ export const chartData: ChartJSData = {
   ]
 }
 
+export const latestData = sortedData[sortedData.length - 1];
+
 export function getChartData(yearStr: string, monthStr: string): ChartJSData {
   const year = Number(yearStr);
   const month = Number(monthStr);
