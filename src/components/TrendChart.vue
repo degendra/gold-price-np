@@ -30,8 +30,37 @@
     <div class="chart-wrapper">
       <LineChart :data="chartFilteredData" :options="options" />
       <div class="chart-footer">
-        <p>Source: <a href="https://gahanaonline.com/gold-rate-history/" target="_blank" rel="noopener noreferrer">Gahana Online</a></p>
+        <p>
+          Source:
+          <a
+            href="https://gahanaonline.com/gold-rate-history/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Gahana Online</a
+          >
+        </p>
       </div>
+    </div>
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>Date (AD)</th>
+            <th>Date (BS)</th>
+            <th>Gold Price (NPR)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-if="tableFilteredData.length === 0">
+            <td colspan="3" style="text-align: center">No data found</td>
+          </tr>
+          <tr v-for="(data, index) in tableFilteredData" :key="index">
+            <td>{{ data.Date_AD }}</td>
+            <td>{{ data.Date_BS }}</td>
+            <td class="price">{{ formatPrice(Number(data.Gold_Price_Per_Tola)) }}</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </template>
@@ -121,6 +150,10 @@ export default {
       }))
       return data
     },
+
+    tableFilteredData() {
+      return chartConfig.getTableData(this.selectedYear, this.selectedMonth)
+    },
   },
   methods: {
     getFormattedPrice() {
@@ -129,6 +162,12 @@ export default {
         style: 'currency',
         currency: 'NPR',
       }).format(Number(price))
+    },
+    formatPrice(price: number) {
+      return new Intl.NumberFormat('en-US', {
+        style: 'currency',
+        currency: 'NPR',
+      }).format(price)
     },
   },
 }
@@ -229,6 +268,63 @@ export default {
     &:focus {
       outline: none;
       border-color: #2196f3;
+    }
+  }
+}
+
+.table-wrapper {
+  margin-top: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+
+  th,
+  td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+  }
+
+  th {
+    background: #f8f8f8;
+    color: #333;
+    font-weight: 600;
+  }
+
+  td {
+    color: #666;
+
+    &.price {
+      color: #d4af37;
+      font-weight: 500;
+    }
+  }
+
+  tr:hover {
+    background: #fafafa;
+  }
+}
+
+@media (max-width: 768px) {
+  .table-wrapper {
+    margin-top: 15px;
+    padding: 10px;
+  }
+
+  table {
+    font-size: 0.8rem;
+
+    th,
+    td {
+      padding: 8px;
     }
   }
 }

@@ -15,6 +15,12 @@ interface ChartJSData {
   }>;
 }
 
+interface TableData {
+  Date_AD: string;
+  Date_BS: string;
+  Gold_Price_Per_Tola: string;
+}
+
 export const chartData: ChartJSData = {
   labels: sortedData.map((item) => item.Date_AD),
   datasets: [
@@ -29,6 +35,22 @@ export const chartData: ChartJSData = {
 }
 
 export const latestData = sortedData[sortedData.length - 1];
+
+export function getTableData(yearStr: string, monthStr: string): TableData[] {
+  const rSortedData = jsonData.sort((a, b) => { return new Date(b.Date_AD).getTime() - new Date(a.Date_AD).getTime(); });
+  const year = Number(yearStr);
+  const month = Number(monthStr);
+
+  if (year === 0) {
+    return rSortedData;
+  }
+
+  let data = rSortedData.filter((item) => new Date(item.Date_AD).getFullYear() === year);
+  if (month > 0 && month < 13) {
+    data = data.filter((item) => new Date(item.Date_AD).getMonth() === month - 1);
+  }
+  return data;
+}
 
 export function getChartData(yearStr: string, monthStr: string): ChartJSData {
   const year = Number(yearStr);
