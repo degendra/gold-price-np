@@ -11,7 +11,7 @@
     "type-check": "vue-tsc --build",
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
-    "scrape": "npx ts-node --esm src/scripts/scrapeGoldData.ts"
+    "scrape": "npx ts-node --esm src/scripts/scrapeGoldData.cjs"
   },
   "dependencies": {
     "axios": "^1.7.9",

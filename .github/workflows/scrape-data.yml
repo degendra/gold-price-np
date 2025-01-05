@@ -1,0 +1,40 @@
+name: Scrape Data
+
+on:
+  schedule:
+    # This will trigger the workflow every 6 hours
+    - cron: '0 */6 * * *' # At minute 0 past every 6th hour
+
+  # You can also manually trigger the workflow if needed
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Run the gold scrape script
+        run: |
+          npm run scrape
+
+      - name: Commit and push scraped data
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add assets/*.json
+          git commit -m "Scraped gold data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
