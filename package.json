@@ -10,16 +10,19 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --build",
     "lint": "eslint . --fix",
-    "format": "prettier --write src/"
+    "format": "prettier --write src/",
+    "scrape": "npx ts-node --esm src/scripts/scrapeGoldData.ts"
   },
   "dependencies": {
+    "axios": "^1.7.9",
     "chart.js": "^4.4.7",
+    "cheerio": "^1.0.0",
     "vue": "^3.5.13",
     "vue-chartjs": "^5.3.2"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.0",
-    "@types/node": "^22.10.2",
+    "@types/node": "^22.10.5",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/eslint-config-prettier": "^10.1.0",
     "@vue/eslint-config-typescript": "^14.1.3",
@@ -29,6 +32,7 @@
     "npm-run-all2": "^7.0.2",
     "prettier": "^3.3.3",
     "sass-embedded": "^1.83.0",
+    "ts-node": "^10.9.2",
     "typescript": "~5.6.3",
     "vite": "^6.0.5",
     "vite-plugin-vue-devtools": "^7.6.8",
