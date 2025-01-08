@@ -12,6 +12,7 @@ interface ChartJSData {
     borderColor: string;
     tension: number;
     fill: boolean;
+    pointRadius: number;
   }>;
 }
 
@@ -29,7 +30,8 @@ export const chartData: ChartJSData = {
       data: sortedData.map((item) => Number(item.Gold_Price_Per_Tola)),
       borderColor: 'rgba(75, 192, 192, 1)',
       tension: 0.1,
-      fill: false
+      fill: false,
+      pointRadius: 0
     }
   ]
 }
@@ -73,7 +75,8 @@ export function getChartData(yearStr: string, monthStr: string): ChartJSData {
         data: data.map((item) => Number(item.Gold_Price_Per_Tola)),
         borderColor: 'rgba(75, 192, 192, 1)',
         tension: 0.1,
-        fill: false
+        fill: false,
+        pointRadius: 0
       }
     ]
   }
