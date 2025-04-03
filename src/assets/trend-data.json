@@ -1,11 +1,16 @@
 [
   {
-    "Date_AD": "04/2/2025",
+    "Date_AD": "04/03/2025",
+    "Date_BS": "12/21/2081",
+    "Gold_Price_Per_Tola": "180300"
+  },
+  {
+    "Date_AD": "04/02/2025",
     "Date_BS": "12/20/2081",
     "Gold_Price_Per_Tola": "179100"
   },
   {
-    "Date_AD": "04/1/2025",
+    "Date_AD": "04/01/2025",
     "Date_BS": "12/19/2081",
     "Gold_Price_Per_Tola": "179700"
   },
