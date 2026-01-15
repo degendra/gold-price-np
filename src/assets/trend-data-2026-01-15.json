@@ -1,0 +1,5372 @@
+[
+  {
+    "Date_AD": "01/14/2026",
+    "Date_BS": "09/30/2082",
+    "Gold_Price_Per_Tola": "278000"
+  },
+  {
+    "Date_AD": "01/13/2026",
+    "Date_BS": "09/29/2082",
+    "Gold_Price_Per_Tola": "276500"
+  },
+  {
+    "Date_AD": "01/12/2026",
+    "Date_BS": "09/28/2082",
+    "Gold_Price_Per_Tola": "274700"
+  },
+  {
+    "Date_AD": "01/11/2026",
+    "Date_BS": "09/27/2082",
+    "Gold_Price_Per_Tola": "270600"
+  },
+  {
+    "Date_AD": "01/09/2026",
+    "Date_BS": "09/25/2082",
+    "Gold_Price_Per_Tola": "267800"
+  },
+  {
+    "Date_AD": "01/08/2026",
+    "Date_BS": "09/24/2082",
+    "Gold_Price_Per_Tola": "265700"
+  },
+  {
+    "Date_AD": "01/07/2026",
+    "Date_BS": "09/23/2082",
+    "Gold_Price_Per_Tola": "267700"
+  },
+  {
+    "Date_AD": "01/06/2026",
+    "Date_BS": "09/22/2082",
+    "Gold_Price_Per_Tola": "268100"
+  },
+  {
+    "Date_AD": "01/05/2026",
+    "Date_BS": "09/21/2082",
+    "Gold_Price_Per_Tola": "265000"
+  },
+  {
+    "Date_AD": "01/04/2026",
+    "Date_BS": "09/20/2082",
+    "Gold_Price_Per_Tola": "260400"
+  },
+  {
+    "Date_AD": "01/02/2026",
+    "Date_BS": "09/18/2082",
+    "Gold_Price_Per_Tola": "262500"
+  },
+  {
+    "Date_AD": "01/01/2026",
+    "Date_BS": "09/17/2082",
+    "Gold_Price_Per_Tola": "259600"
+  },
+  {
+    "Date_AD": "Date in A.D",
+    "Date_BS": "Date In B.S",
+    "Gold_Price_Per_Tola": "Gold Rate Per Tola"
+  },
+  {
+    "Date_AD": "12/31/2025",
+    "Date_BS": "09/16/2082",
+    "Gold_Price_Per_Tola": "261000"
+  },
+  {
+    "Date_AD": "12/30/2025",
+    "Date_BS": "09/15/2082",
+    "Gold_Price_Per_Tola": "262100"
+  },
+  {
+    "Date_AD": "12/29/2025",
+    "Date_BS": "09/14/2082",
+    "Gold_Price_Per_Tola": "270000"
+  },
+  {
+    "Date_AD": "12/28/2025",
+    "Date_BS": "09/13/2082",
+    "Gold_Price_Per_Tola": "270600"
+  },
+  {
+    "Date_AD": "12/26/2025",
+    "Date_BS": "09/11/2082",
+    "Gold_Price_Per_Tola": "269300"
+  },
+  {
+    "Date_AD": "12/25/2025",
+    "Date_BS": "09/10/2082",
+    "Gold_Price_Per_Tola": "267500"
+  },
+  {
+    "Date_AD": "12/24/2025",
+    "Date_BS": "09/09/2082",
+    "Gold_Price_Per_Tola": "268100"
+  },
+  {
+    "Date_AD": "12/23/2025",
+    "Date_BS": "09/08/2082",
+    "Gold_Price_Per_Tola": "267200"
+  },
+  {
+    "Date_AD": "12/22/2025",
+    "Date_BS": "09/07/2082",
+    "Gold_Price_Per_Tola": "261700"
+  },
+  {
+    "Date_AD": "12/21/2025",
+    "Date_BS": "09/06/2082",
+    "Gold_Price_Per_Tola": "258300"
+  },
+  {
+    "Date_AD": "12/19/2025",
+    "Date_BS": "09/04/2082",
+    "Gold_Price_Per_Tola": "258400"
+  },
+  {
+    "Date_AD": "12/18/2025",
+    "Date_BS": "09/03/2082",
+    "Gold_Price_Per_Tola": "260400"
+  },
+  {
+    "Date_AD": "12/17/2025",
+    "Date_BS": "09/02/2082",
+    "Gold_Price_Per_Tola": "259700"
+  },
+  {
+    "Date_AD": "12/16/2025",
+    "Date_BS": "09/01/2082",
+    "Gold_Price_Per_Tola": "259000"
+  },
+  {
+    "Date_AD": "12/15/2025",
+    "Date_BS": "08/29/2082",
+    "Gold_Price_Per_Tola": "260700"
+  },
+  {
+    "Date_AD": "12/14/2025",
+    "Date_BS": "08/28/2082",
+    "Gold_Price_Per_Tola": "258800"
+  },
+  {
+    "Date_AD": "12/12/2025",
+    "Date_BS": "08/26/2082",
+    "Gold_Price_Per_Tola": "256600"
+  },
+  {
+    "Date_AD": "12/11/2025",
+    "Date_BS": "08/25/2082",
+    "Gold_Price_Per_Tola": "253100"
+  },
+  {
+    "Date_AD": "12/10/2025",
+    "Date_BS": "08/24/2082",
+    "Gold_Price_Per_Tola": "252100"
+  },
+  {
+    "Date_AD": "12/09/2025",
+    "Date_BS": "08/23/2082",
+    "Gold_Price_Per_Tola": "251900"
+  },
+  {
+    "Date_AD": "12/08/2025",
+    "Date_BS": "08/22/2082",
+    "Gold_Price_Per_Tola": "252900"
+  },
+  {
+    "Date_AD": "12/07/2025",
+    "Date_BS": "08/21/2082",
+    "Gold_Price_Per_Tola": "252200"
+  },
+  {
+    "Date_AD": "12/05/2025",
+    "Date_BS": "08/19/2082",
+    "Gold_Price_Per_Tola": "252400"
+  },
+  {
+    "Date_AD": "12/04/2025",
+    "Date_BS": "08/18/2082",
+    "Gold_Price_Per_Tola": "253300"
+  },
+  {
+    "Date_AD": "12/03/2025",
+    "Date_BS": "08/17/2082",
+    "Gold_Price_Per_Tola": "254100"
+  },
+  {
+    "Date_AD": "12/02/2025",
+    "Date_BS": "08/16/2082",
+    "Gold_Price_Per_Tola": "253300"
+  },
+  {
+    "Date_AD": "12/01/2025",
+    "Date_BS": "08/15/2082",
+    "Gold_Price_Per_Tola": "253600"
+  },
+  {
+    "Date_AD": "11/30/2025",
+    "Date_BS": "08/14/2082",
+    "Gold_Price_Per_Tola": "252200"
+  },
+  {
+    "Date_AD": "11/28/2025",
+    "Date_BS": "08/12/2082",
+    "Gold_Price_Per_Tola": "250600"
+  },
+  {
+    "Date_AD": "11/27/2025",
+    "Date_BS": "08/11/2082",
+    "Gold_Price_Per_Tola": "248400"
+  },
+  {
+    "Date_AD": "11/26/2025",
+    "Date_BS": "08/10/2082",
+    "Gold_Price_Per_Tola": "248800"
+  },
+  {
+    "Date_AD": "11/25/2025",
+    "Date_BS": "08/09/2082",
+    "Gold_Price_Per_Tola": "247900"
+  },
+  {
+    "Date_AD": "11/24/2025",
+    "Date_BS": "08/08/2082",
+    "Gold_Price_Per_Tola": "242700"
+  },
+  {
+    "Date_AD": "11/23/2025",
+    "Date_BS": "08/07/2082",
+    "Gold_Price_Per_Tola": "244600"
+  },
+  {
+    "Date_AD": "11/21/2025",
+    "Date_BS": "08/05/2082",
+    "Gold_Price_Per_Tola": "241700"
+  },
+  {
+    "Date_AD": "11/20/2025",
+    "Date_BS": "08/04/2082",
+    "Gold_Price_Per_Tola": "243000"
+  },
+  {
+    "Date_AD": "11/19/2025",
+    "Date_BS": "08/03/2082",
+    "Gold_Price_Per_Tola": "242300"
+  },
+  {
+    "Date_AD": "11/18/2025",
+    "Date_BS": "08/02/2082",
+    "Gold_Price_Per_Tola": "239500"
+  },
+  {
+    "Date_AD": "11/17/2025",
+    "Date_BS": "08/01/2082",
+    "Gold_Price_Per_Tola": "243300"
+  },
+  {
+    "Date_AD": "11/16/2025",
+    "Date_BS": "07/30/2082",
+    "Gold_Price_Per_Tola": "242800"
+  },
+  {
+    "Date_AD": "11/14/2025",
+    "Date_BS": "07/28/2082",
+    "Gold_Price_Per_Tola": "249700"
+  },
+  {
+    "Date_AD": "11/13/2025",
+    "Date_BS": "07/27/2082",
+    "Gold_Price_Per_Tola": "250200"
+  },
+  {
+    "Date_AD": "11/12/2025",
+    "Date_BS": "07/26/2082",
+    "Gold_Price_Per_Tola": "244300"
+  },
+  {
+    "Date_AD": "11/11/2025",
+    "Date_BS": "07/25/2082",
+    "Gold_Price_Per_Tola": "246400"
+  },
+  {
+    "Date_AD": "11/10/2025",
+    "Date_BS": "07/24/2082",
+    "Gold_Price_Per_Tola": "241500"
+  },
+  {
+    "Date_AD": "11/09/2025",
+    "Date_BS": "07/23/2082",
+    "Gold_Price_Per_Tola": "238600"
+  },
+  {
+    "Date_AD": "11/07/2025",
+    "Date_BS": "07/21/2082",
+    "Gold_Price_Per_Tola": "238400"
+  },
+  {
+    "Date_AD": "11/06/2025",
+    "Date_BS": "07/20/2082",
+    "Gold_Price_Per_Tola": "237800"
+  },
+  {
+    "Date_AD": "11/05/2025",
+    "Date_BS": "07/19/2082",
+    "Gold_Price_Per_Tola": "237200"
+  },
+  {
+    "Date_AD": "11/04/2025",
+    "Date_BS": "07/18/2082",
+    "Gold_Price_Per_Tola": "238300"
+  },
+  {
+    "Date_AD": "11/03/2025",
+    "Date_BS": "07/17/2082",
+    "Gold_Price_Per_Tola": "239700"
+  },
+  {
+    "Date_AD": "11/02/2025",
+    "Date_BS": "07/16/2082",
+    "Gold_Price_Per_Tola": "239700"
+  },
+  {
+    "Date_AD": "10/31/2025",
+    "Date_BS": "07/14/2082",
+    "Gold_Price_Per_Tola": "239000"
+  },
+  {
+    "Date_AD": "10/30/2025",
+    "Date_BS": "07/13/2082",
+    "Gold_Price_Per_Tola": "236300"
+  },
+  {
+    "Date_AD": "10/29/2025",
+    "Date_BS": "07/12/2082",
+    "Gold_Price_Per_Tola": "236300"
+  },
+  {
+    "Date_AD": "10/28/2025",
+    "Date_BS": "07/11/2082",
+    "Gold_Price_Per_Tola": "237000"
+  },
+  {
+    "Date_AD": "10/27/2025",
+    "Date_BS": "07/10/2082",
+    "Gold_Price_Per_Tola": "239900"
+  },
+  {
+    "Date_AD": "10/26/2025",
+    "Date_BS": "07/09/2082",
+    "Gold_Price_Per_Tola": "241900"
+  },
+  {
+    "Date_AD": "10/20/2025",
+    "Date_BS": "07/03/2082",
+    "Gold_Price_Per_Tola": "253500"
+  },
+  {
+    "Date_AD": "10/19/2025",
+    "Date_BS": "07/02/2082",
+    "Gold_Price_Per_Tola": "253200"
+  },
+  {
+    "Date_AD": "10/17/2025",
+    "Date_BS": "06/31/2082",
+    "Gold_Price_Per_Tola": "258000"
+  },
+  {
+    "Date_AD": "10/16/2025",
+    "Date_BS": "06/30/2082",
+    "Gold_Price_Per_Tola": "250900"
+  },
+  {
+    "Date_AD": "10/15/2025",
+    "Date_BS": "06/29/2082",
+    "Gold_Price_Per_Tola": "248900"
+  },
+  {
+    "Date_AD": "10/14/2025",
+    "Date_BS": "06/28/2082",
+    "Gold_Price_Per_Tola": "248500"
+  },
+  {
+    "Date_AD": "10/13/2025",
+    "Date_BS": "06/27/2082",
+    "Gold_Price_Per_Tola": "240400"
+  },
+  {
+    "Date_AD": "10/12/2025",
+    "Date_BS": "06/26/2082",
+    "Gold_Price_Per_Tola": "238000"
+  },
+  {
+    "Date_AD": "10/11/2025",
+    "Date_BS": "06/25/2082",
+    "Gold_Price_Per_Tola": "238000"
+  },
+  {
+    "Date_AD": "10/10/2025",
+    "Date_BS": "06/24/2082",
+    "Gold_Price_Per_Tola": "235000"
+  },
+  {
+    "Date_AD": "10/09/2025",
+    "Date_BS": "06/23/2082",
+    "Gold_Price_Per_Tola": "239200"
+  },
+  {
+    "Date_AD": "10/08/2025",
+    "Date_BS": "06/22/2082",
+    "Gold_Price_Per_Tola": "238000"
+  },
+  {
+    "Date_AD": "10/07/2025",
+    "Date_BS": "06/21/2082",
+    "Gold_Price_Per_Tola": "235400"
+  },
+  {
+    "Date_AD": "10/06/2025",
+    "Date_BS": "06/20/2082",
+    "Gold_Price_Per_Tola": "233100"
+  },
+  {
+    "Date_AD": "09/28/2025",
+    "Date_BS": "06/12/2082",
+    "Gold_Price_Per_Tola": "223200"
+  },
+  {
+    "Date_AD": "09/26/2025",
+    "Date_BS": "06/10/2082",
+    "Gold_Price_Per_Tola": "222500"
+  },
+  {
+    "Date_AD": "09/25/2025",
+    "Date_BS": "06/09/2082",
+    "Gold_Price_Per_Tola": "221300"
+  },
+  {
+    "Date_AD": "09/24/2025",
+    "Date_BS": "06/08/2082",
+    "Gold_Price_Per_Tola": "223000"
+  },
+  {
+    "Date_AD": "09/23/2025",
+    "Date_BS": "06/07/2082",
+    "Gold_Price_Per_Tola": "221700"
+  },
+  {
+    "Date_AD": "09/22/2025",
+    "Date_BS": "06/06/2082",
+    "Gold_Price_Per_Tola": "217800"
+  },
+  {
+    "Date_AD": "09/21/2025",
+    "Date_BS": "06/05/2082",
+    "Gold_Price_Per_Tola": "217100"
+  },
+  {
+    "Date_AD": "09/19/2025",
+    "Date_BS": "06/03/2082",
+    "Gold_Price_Per_Tola": "216000"
+  },
+  {
+    "Date_AD": "09/18/2025",
+    "Date_BS": "06/02/2082",
+    "Gold_Price_Per_Tola": "215200"
+  },
+  {
+    "Date_AD": "09/17/2025",
+    "Date_BS": "06/01/2082",
+    "Gold_Price_Per_Tola": "216100"
+  },
+  {
+    "Date_AD": "09/16/2025",
+    "Date_BS": "05/31/2082",
+    "Gold_Price_Per_Tola": "217100"
+  },
+  {
+    "Date_AD": "09/15/2025",
+    "Date_BS": "05/30/2082",
+    "Gold_Price_Per_Tola": "215200"
+  },
+  {
+    "Date_AD": "09/14/2025",
+    "Date_BS": "05/29/2082",
+    "Gold_Price_Per_Tola": "215100"
+  },
+  {
+    "Date_AD": "09/08/2025",
+    "Date_BS": "05/23/2082",
+    "Gold_Price_Per_Tola": "211600"
+  },
+  {
+    "Date_AD": "09/07/2025",
+    "Date_BS": "05/22/2082",
+    "Gold_Price_Per_Tola": "212000"
+  },
+  {
+    "Date_AD": "09/05/2025",
+    "Date_BS": "05/20/2082",
+    "Gold_Price_Per_Tola": "210400"
+  },
+  {
+    "Date_AD": "09/04/2025",
+    "Date_BS": "05/19/2082",
+    "Gold_Price_Per_Tola": "207900"
+  },
+  {
+    "Date_AD": "09/03/2025",
+    "Date_BS": "05/18/2082",
+    "Gold_Price_Per_Tola": "207900"
+  },
+  {
+    "Date_AD": "09/02/2025",
+    "Date_BS": "05/17/2082",
+    "Gold_Price_Per_Tola": "205900"
+  },
+  {
+    "Date_AD": "09/01/2025",
+    "Date_BS": "05/16/2082",
+    "Gold_Price_Per_Tola": "205600"
+  },
+  {
+    "Date_AD": "08/31/2025",
+    "Date_BS": "05/15/2082",
+    "Gold_Price_Per_Tola": "203600"
+  },
+  {
+    "Date_AD": "08/29/2025",
+    "Date_BS": "05/13/2082",
+    "Gold_Price_Per_Tola": "200600"
+  },
+  {
+    "Date_AD": "08/28/2025",
+    "Date_BS": "05/12/2082",
+    "Gold_Price_Per_Tola": "199400"
+  },
+  {
+    "Date_AD": "08/27/2025",
+    "Date_BS": "05/11/2082",
+    "Gold_Price_Per_Tola": "199000"
+  },
+  {
+    "Date_AD": "08/26/2025",
+    "Date_BS": "05/10/2082",
+    "Gold_Price_Per_Tola": "198700"
+  },
+  {
+    "Date_AD": "08/25/2025",
+    "Date_BS": "05/09/2082",
+    "Gold_Price_Per_Tola": "197200"
+  },
+  {
+    "Date_AD": "08/24/2025",
+    "Date_BS": "05/08/2082",
+    "Gold_Price_Per_Tola": "197500"
+  },
+  {
+    "Date_AD": "08/22/2025",
+    "Date_BS": "05/06/2082",
+    "Gold_Price_Per_Tola": "195200"
+  },
+  {
+    "Date_AD": "08/21/2025",
+    "Date_BS": "05/05/2082",
+    "Gold_Price_Per_Tola": "194800"
+  },
+  {
+    "Date_AD": "08/20/2025",
+    "Date_BS": "05/04/2082",
+    "Gold_Price_Per_Tola": "193500"
+  },
+  {
+    "Date_AD": "08/19/2025",
+    "Date_BS": "05/03/2082",
+    "Gold_Price_Per_Tola": "195300"
+  },
+  {
+    "Date_AD": "08/18/2025",
+    "Date_BS": "05/02/2082",
+    "Gold_Price_Per_Tola": "196300"
+  },
+  {
+    "Date_AD": "08/17/2025",
+    "Date_BS": "05/01/2082",
+    "Gold_Price_Per_Tola": "195500"
+  },
+  {
+    "Date_AD": "08/15/2025",
+    "Date_BS": "04/30/2082",
+    "Gold_Price_Per_Tola": "196200"
+  },
+  {
+    "Date_AD": "08/14/2025",
+    "Date_BS": "04/29/2082",
+    "Gold_Price_Per_Tola": "196800"
+  },
+  {
+    "Date_AD": "08/13/2025",
+    "Date_BS": "04/28/2082",
+    "Gold_Price_Per_Tola": "196700"
+  },
+  {
+    "Date_AD": "08/12/2025",
+    "Date_BS": "04/27/2082",
+    "Gold_Price_Per_Tola": "196800"
+  },
+  {
+    "Date_AD": "08/11/2025",
+    "Date_BS": "04/26/2082",
+    "Gold_Price_Per_Tola": "198100"
+  },
+  {
+    "Date_AD": "08/10/2025",
+    "Date_BS": "04/25/2082",
+    "Gold_Price_Per_Tola": "199200"
+  },
+  {
+    "Date_AD": "08/08/2025",
+    "Date_BS": "04/23/2082",
+    "Gold_Price_Per_Tola": "199400"
+  },
+  {
+    "Date_AD": "08/07/2025",
+    "Date_BS": "04/22/2082",
+    "Gold_Price_Per_Tola": "198400"
+  },
+  {
+    "Date_AD": "08/06/2025",
+    "Date_BS": "04/21/2082",
+    "Gold_Price_Per_Tola": "198400"
+  },
+  {
+    "Date_AD": "08/05/2025",
+    "Date_BS": "04/20/2082",
+    "Gold_Price_Per_Tola": "198500"
+  },
+  {
+    "Date_AD": "08/04/2025",
+    "Date_BS": "04/19/2082",
+    "Gold_Price_Per_Tola": "196600"
+  },
+  {
+    "Date_AD": "08/03/2025",
+    "Date_BS": "04/18/2082",
+    "Gold_Price_Per_Tola": "196500"
+  },
+  {
+    "Date_AD": "08/01/2025",
+    "Date_BS": "04/16/2082",
+    "Gold_Price_Per_Tola": "193100"
+  },
+  {
+    "Date_AD": "07/31/2025",
+    "Date_BS": "04/15/2082",
+    "Gold_Price_Per_Tola": "193600"
+  },
+  {
+    "Date_AD": "07/30/2025",
+    "Date_BS": "04/14/2082",
+    "Gold_Price_Per_Tola": "194400"
+  },
+  {
+    "Date_AD": "07/29/2025",
+    "Date_BS": "04/13/2082",
+    "Gold_Price_Per_Tola": "193000"
+  },
+  {
+    "Date_AD": "07/28/2025",
+    "Date_BS": "04/12/2082",
+    "Gold_Price_Per_Tola": "193600"
+  },
+  {
+    "Date_AD": "07/27/2025",
+    "Date_BS": "04/11/2082",
+    "Gold_Price_Per_Tola": "193600"
+  },
+  {
+    "Date_AD": "07/25/2025",
+    "Date_BS": "04/09/2082",
+    "Gold_Price_Per_Tola": "194700"
+  },
+  {
+    "Date_AD": "07/24/2025",
+    "Date_BS": "04/08/2082",
+    "Gold_Price_Per_Tola": "195200"
+  },
+  {
+    "Date_AD": "07/23/2025",
+    "Date_BS": "04/07/2082",
+    "Gold_Price_Per_Tola": "197600"
+  },
+  {
+    "Date_AD": "07/22/2025",
+    "Date_BS": "04/06/2082",
+    "Gold_Price_Per_Tola": "195500"
+  },
+  {
+    "Date_AD": "07/21/2025",
+    "Date_BS": "04/05/2082",
+    "Gold_Price_Per_Tola": "193700"
+  },
+  {
+    "Date_AD": "07/20/2025",
+    "Date_BS": "04/04/2082",
+    "Gold_Price_Per_Tola": "193300"
+  },
+  {
+    "Date_AD": "07/18/2025",
+    "Date_BS": "04/02/2082",
+    "Gold_Price_Per_Tola": "192500"
+  },
+  {
+    "Date_AD": "07/17/2025",
+    "Date_BS": "04/01/2082",
+    "Gold_Price_Per_Tola": "192300"
+  },
+  {
+    "Date_AD": "07/16/2025",
+    "Date_BS": "03/32/2082",
+    "Gold_Price_Per_Tola": "192000"
+  },
+  {
+    "Date_AD": "07/15/2025",
+    "Date_BS": "03/31/2082",
+    "Gold_Price_Per_Tola": "193300"
+  },
+  {
+    "Date_AD": "07/14/2025",
+    "Date_BS": "03/30/2082",
+    "Gold_Price_Per_Tola": "193300"
+  },
+  {
+    "Date_AD": "07/13/2025",
+    "Date_BS": "03/29/2082",
+    "Gold_Price_Per_Tola": "192900"
+  },
+  {
+    "Date_AD": "07/11/2025",
+    "Date_BS": "03/27/2082",
+    "Gold_Price_Per_Tola": "191800"
+  },
+  {
+    "Date_AD": "07/03/2025",
+    "Date_BS": "03/19/2082",
+    "Gold_Price_Per_Tola": "191100"
+  },
+  {
+    "Date_AD": "07/02/2025",
+    "Date_BS": "03/18/2082",
+    "Gold_Price_Per_Tola": "191700"
+  },
+  {
+    "Date_AD": "07/01/2025",
+    "Date_BS": "03/17/2082",
+    "Gold_Price_Per_Tola": "190500"
+  },
+  {
+    "Date_AD": "06/30/2025",
+    "Date_BS": "03/16/2082",
+    "Gold_Price_Per_Tola": "188100"
+  },
+  {
+    "Date_AD": "06/29/2025",
+    "Date_BS": "03/15/2082",
+    "Gold_Price_Per_Tola": "188400"
+  },
+  {
+    "Date_AD": "06/27/2025",
+    "Date_BS": "03/13/2082",
+    "Gold_Price_Per_Tola": "189400"
+  },
+  {
+    "Date_AD": "06/26/2025",
+    "Date_BS": "03/12/2082",
+    "Gold_Price_Per_Tola": "192300"
+  },
+  {
+    "Date_AD": "06/25/2025",
+    "Date_BS": "03/11/2082",
+    "Gold_Price_Per_Tola": "192000"
+  },
+  {
+    "Date_AD": "06/24/2025",
+    "Date_BS": "03/10/2082",
+    "Gold_Price_Per_Tola": "195500"
+  },
+  {
+    "Date_AD": "06/23/2025",
+    "Date_BS": "03/09/2082",
+    "Gold_Price_Per_Tola": "195200"
+  },
+  {
+    "Date_AD": "06/22/2025",
+    "Date_BS": "03/08/2082",
+    "Gold_Price_Per_Tola": "195200"
+  },
+  {
+    "Date_AD": "06/20/2025",
+    "Date_BS": "03/06/2082",
+    "Gold_Price_Per_Tola": "194700"
+  },
+  {
+    "Date_AD": "06/19/2025",
+    "Date_BS": "03/05/2082",
+    "Gold_Price_Per_Tola": "197500"
+  },
+  {
+    "Date_AD": "06/18/2025",
+    "Date_BS": "03/04/2082",
+    "Gold_Price_Per_Tola": "197900"
+  },
+  {
+    "Date_AD": "06/17/2025",
+    "Date_BS": "03/03/2082",
+    "Gold_Price_Per_Tola": "195000"
+  },
+  {
+    "Date_AD": "06/16/2025",
+    "Date_BS": "03/02/2082",
+    "Gold_Price_Per_Tola": "197500"
+  },
+  {
+    "Date_AD": "06/15/2025",
+    "Date_BS": "03/01/2082",
+    "Gold_Price_Per_Tola": "197500"
+  },
+  {
+    "Date_AD": "06/12/2025",
+    "Date_BS": "02/29/2082",
+    "Gold_Price_Per_Tola": "192900"
+  },
+  {
+    "Date_AD": "06/11/2025",
+    "Date_BS": "02/28/2082",
+    "Gold_Price_Per_Tola": "191300"
+  },
+  {
+    "Date_AD": "06/10/2025",
+    "Date_BS": "02/27/2082",
+    "Gold_Price_Per_Tola": "190000"
+  },
+  {
+    "Date_AD": "06/09/2025",
+    "Date_BS": "02/26/2082",
+    "Gold_Price_Per_Tola": "190600"
+  },
+  {
+    "Date_AD": "06/08/2025",
+    "Date_BS": "02/25/2082",
+    "Gold_Price_Per_Tola": "190700"
+  },
+  {
+    "Date_AD": "06/06/2025",
+    "Date_BS": "02/23/2082",
+    "Gold_Price_Per_Tola": "193700"
+  },
+  {
+    "Date_AD": "06/05/2025",
+    "Date_BS": "02/22/2082",
+    "Gold_Price_Per_Tola": "193700"
+  },
+  {
+    "Date_AD": "06/04/2025",
+    "Date_BS": "02/21/2082",
+    "Gold_Price_Per_Tola": "193200"
+  },
+  {
+    "Date_AD": "06/03/2025",
+    "Date_BS": "02/20/2082",
+    "Gold_Price_Per_Tola": "192700"
+  },
+  {
+    "Date_AD": "06/02/2025",
+    "Date_BS": "02/19/2082",
+    "Gold_Price_Per_Tola": "189800"
+  },
+  {
+    "Date_AD": "06/01/2025",
+    "Date_BS": "02/18/2082",
+    "Gold_Price_Per_Tola": "188800"
+  },
+  {
+    "Date_AD": "05/30/2025",
+    "Date_BS": "02/16/2082",
+    "Gold_Price_Per_Tola": "188500"
+  },
+  {
+    "Date_AD": "05/29/2025",
+    "Date_BS": "02/15/2082",
+    "Gold_Price_Per_Tola": "189800"
+  },
+  {
+    "Date_AD": "05/28/2025",
+    "Date_BS": "02/14/2082",
+    "Gold_Price_Per_Tola": "189300"
+  },
+  {
+    "Date_AD": "05/27/2025",
+    "Date_BS": "02/13/2082",
+    "Gold_Price_Per_Tola": "190900"
+  },
+  {
+    "Date_AD": "05/26/2025",
+    "Date_BS": "02/12/2082",
+    "Gold_Price_Per_Tola": "191100"
+  },
+  {
+    "Date_AD": "05/25/2025",
+    "Date_BS": "02/11/2082",
+    "Gold_Price_Per_Tola": "191800"
+  },
+  {
+    "Date_AD": "05/23/2025",
+    "Date_BS": "02/09/2082",
+    "Gold_Price_Per_Tola": "190400"
+  },
+  {
+    "Date_AD": "05/22/2025",
+    "Date_BS": "02/08/2082",
+    "Gold_Price_Per_Tola": "191500"
+  },
+  {
+    "Date_AD": "05/21/2025",
+    "Date_BS": "02/07/2082",
+    "Gold_Price_Per_Tola": "189800"
+  },
+  {
+    "Date_AD": "05/20/2025",
+    "Date_BS": "02/06/2082",
+    "Gold_Price_Per_Tola": "184800"
+  },
+  {
+    "Date_AD": "05/19/2025",
+    "Date_BS": "02/05/2082",
+    "Gold_Price_Per_Tola": "184800"
+  },
+  {
+    "Date_AD": "05/18/2025",
+    "Date_BS": "02/04/2082",
+    "Gold_Price_Per_Tola": "184200"
+  },
+  {
+    "Date_AD": "05/16/2025",
+    "Date_BS": "02/02/2082",
+    "Gold_Price_Per_Tola": "184800"
+  },
+  {
+    "Date_AD": "05/15/2025",
+    "Date_BS": "02/01/2082",
+    "Gold_Price_Per_Tola": "181800"
+  },
+  {
+    "Date_AD": "05/14/2025",
+    "Date_BS": "01/31/2082",
+    "Gold_Price_Per_Tola": "185300"
+  },
+  {
+    "Date_AD": "05/13/2025",
+    "Date_BS": "01/30/2082",
+    "Gold_Price_Per_Tola": "184800"
+  },
+  {
+    "Date_AD": "05/12/2025",
+    "Date_BS": "01/29/2082",
+    "Gold_Price_Per_Tola": "186800"
+  },
+  {
+    "Date_AD": "05/11/2025",
+    "Date_BS": "01/28/2082",
+    "Gold_Price_Per_Tola": "190500"
+  },
+  {
+    "Date_AD": "05/09/2025",
+    "Date_BS": "01/26/2082",
+    "Gold_Price_Per_Tola": "190800"
+  },
+  {
+    "Date_AD": "05/08/2025",
+    "Date_BS": "01/25/2082",
+    "Gold_Price_Per_Tola": "192200"
+  },
+  {
+    "Date_AD": "05/07/2025",
+    "Date_BS": "01/24/2082",
+    "Gold_Price_Per_Tola": "191600"
+  },
+  {
+    "Date_AD": "05/06/2025",
+    "Date_BS": "01/23/2082",
+    "Gold_Price_Per_Tola": "189900"
+  },
+  {
+    "Date_AD": "05/05/2025",
+    "Date_BS": "01/22/2082",
+    "Gold_Price_Per_Tola": "184600"
+  },
+  {
+    "Date_AD": "05/04/2025",
+    "Date_BS": "01/21/2082",
+    "Gold_Price_Per_Tola": "184100"
+  },
+  {
+    "Date_AD": "05/02/2025",
+    "Date_BS": "01/19/2082",
+    "Gold_Price_Per_Tola": "183500"
+  },
+  {
+    "Date_AD": "05/01/2025",
+    "Date_BS": "01/18/2082",
+    "Gold_Price_Per_Tola": "183500"
+  },
+  {
+    "Date_AD": "04/30/2025",
+    "Date_BS": "01/17/2082",
+    "Gold_Price_Per_Tola": "188900"
+  },
+  {
+    "Date_AD": "04/29/2025",
+    "Date_BS": "01/16/2082",
+    "Gold_Price_Per_Tola": "188800"
+  },
+  {
+    "Date_AD": "04/28/2025",
+    "Date_BS": "01/15/2082",
+    "Gold_Price_Per_Tola": "188300"
+  },
+  {
+    "Date_AD": "04/27/2025",
+    "Date_BS": "01/14/2082",
+    "Gold_Price_Per_Tola": "189700"
+  },
+  {
+    "Date_AD": "04/25/2025",
+    "Date_BS": "01/12/2082",
+    "Gold_Price_Per_Tola": "189600"
+  },
+  {
+    "Date_AD": "04/24/2025",
+    "Date_BS": "01/11/2082",
+    "Gold_Price_Per_Tola": "190600"
+  },
+  {
+    "Date_AD": "04/23/2025",
+    "Date_BS": "01/10/2082",
+    "Gold_Price_Per_Tola": "190400"
+  },
+  {
+    "Date_AD": "04/22/2025",
+    "Date_BS": "01/09/2082",
+    "Gold_Price_Per_Tola": "197900"
+  },
+  {
+    "Date_AD": "04/21/2025",
+    "Date_BS": "01/08/2082",
+    "Gold_Price_Per_Tola": "191000"
+  },
+  {
+    "Date_AD": "04/20/2025",
+    "Date_BS": "01/07/2082",
+    "Gold_Price_Per_Tola": "189800"
+  },
+  {
+    "Date_AD": "04/18/2025",
+    "Date_BS": "01/05/2082",
+    "Gold_Price_Per_Tola": "189800"
+  },
+  {
+    "Date_AD": "04/17/2025",
+    "Date_BS": "01/04/2082",
+    "Gold_Price_Per_Tola": "190600"
+  },
+  {
+    "Date_AD": "04/16/2025",
+    "Date_BS": "01/03/2082",
+    "Gold_Price_Per_Tola": "187000"
+  },
+  {
+    "Date_AD": "04/15/2025",
+    "Date_BS": "01/02/2082",
+    "Gold_Price_Per_Tola": "184300"
+  },
+  {
+    "Date_AD": "04/13/2025",
+    "Date_BS": "12/31/2081",
+    "Gold_Price_Per_Tola": "186000"
+  },
+  {
+    "Date_AD": "04/11/2025",
+    "Date_BS": "12/29/2081",
+    "Gold_Price_Per_Tola": "185000"
+  },
+  {
+    "Date_AD": "04/10/2025",
+    "Date_BS": "12/28/2081",
+    "Gold_Price_Per_Tola": "181100"
+  },
+  {
+    "Date_AD": "04/09/2025",
+    "Date_BS": "12/27/2081",
+    "Gold_Price_Per_Tola": "175400"
+  },
+  {
+    "Date_AD": "04/08/2025",
+    "Date_BS": "12/26/2081",
+    "Gold_Price_Per_Tola": "173400"
+  },
+  {
+    "Date_AD": "04/07/2025",
+    "Date_BS": "12/25/2081",
+    "Gold_Price_Per_Tola": "173800"
+  },
+  {
+    "Date_AD": "04/06/2025",
+    "Date_BS": "12/24/2081",
+    "Gold_Price_Per_Tola": "174500"
+  },
+  {
+    "Date_AD": "04/04/2025",
+    "Date_BS": "12/22/2081",
+    "Gold_Price_Per_Tola": "176400"
+  },
+  {
+    "Date_AD": "04/03/2025",
+    "Date_BS": "12/21/2081",
+    "Gold_Price_Per_Tola": "180300"
+  },
+  {
+    "Date_AD": "04/02/2025",
+    "Date_BS": "12/20/2081",
+    "Gold_Price_Per_Tola": "179100"
+  },
+  {
+    "Date_AD": "04/01/2025",
+    "Date_BS": "12/19/2081",
+    "Gold_Price_Per_Tola": "179700"
+  },
+  {
+    "Date_AD": "03/31/2025",
+    "Date_BS": "12/18/2081",
+    "Gold_Price_Per_Tola": "177900"
+  },
+  {
+    "Date_AD": "03/30/2025",
+    "Date_BS": "12/17/2081",
+    "Gold_Price_Per_Tola": "176800"
+  },
+  {
+    "Date_AD": "03/27/2025",
+    "Date_BS": "12/14/2081",
+    "Gold_Price_Per_Tola": "174800"
+  },
+  {
+    "Date_AD": "03/26/2025",
+    "Date_BS": "12/13/2081",
+    "Gold_Price_Per_Tola": "173500"
+  },
+  {
+    "Date_AD": "03/25/2025",
+    "Date_BS": "12/12/2081",
+    "Gold_Price_Per_Tola": "174100"
+  },
+  {
+    "Date_AD": "03/24/2025",
+    "Date_BS": "11/12/2081",
+    "Gold_Price_Per_Tola": "173300"
+  },
+  {
+    "Date_AD": "03/23/2025",
+    "Date_BS": "10/12/2081",
+    "Gold_Price_Per_Tola": "173500"
+  },
+  {
+    "Date_AD": "03/21/2025",
+    "Date_BS": "8/12/2081",
+    "Gold_Price_Per_Tola": "175000"
+  },
+  {
+    "Date_AD": "03/20/2025",
+    "Date_BS": "7/12/2081",
+    "Gold_Price_Per_Tola": "176000"
+  },
+  {
+    "Date_AD": "03/19/2025",
+    "Date_BS": "6/12/2081",
+    "Gold_Price_Per_Tola": "176000"
+  },
+  {
+    "Date_AD": "03/18/2025",
+    "Date_BS": "5/12/2081",
+    "Gold_Price_Per_Tola": "175200"
+  },
+  {
+    "Date_AD": "03/17/2025",
+    "Date_BS": "4/12/2081",
+    "Gold_Price_Per_Tola": "174100"
+  },
+  {
+    "Date_AD": "03/16/2025",
+    "Date_BS": "3/12/2081",
+    "Gold_Price_Per_Tola": "174100"
+  },
+  {
+    "Date_AD": "03/14/2025",
+    "Date_BS": "12/12/2081",
+    "Gold_Price_Per_Tola": "174500"
+  },
+  {
+    "Date_AD": "03/12/2025",
+    "Date_BS": "11/28/2081",
+    "Gold_Price_Per_Tola": "170500"
+  },
+  {
+    "Date_AD": "03/11/2025",
+    "Date_BS": "11/27/2081",
+    "Gold_Price_Per_Tola": "169900"
+  },
+  {
+    "Date_AD": "03/10/2025",
+    "Date_BS": "11/26/2081",
+    "Gold_Price_Per_Tola": "170400"
+  },
+  {
+    "Date_AD": "03/9/2025",
+    "Date_BS": "11/25/2081",
+    "Gold_Price_Per_Tola": "170300"
+  },
+  {
+    "Date_AD": "03/7/2025",
+    "Date_BS": "11/23/2081",
+    "Gold_Price_Per_Tola": "170200"
+  },
+  {
+    "Date_AD": "03/6/2025",
+    "Date_BS": "11/22/2081",
+    "Gold_Price_Per_Tola": "170700"
+  },
+  {
+    "Date_AD": "03/5/2025",
+    "Date_BS": "11/21/2081",
+    "Gold_Price_Per_Tola": "170400"
+  },
+  {
+    "Date_AD": "03/4/2025",
+    "Date_BS": "11/20/2081",
+    "Gold_Price_Per_Tola": "169500"
+  },
+  {
+    "Date_AD": "03/3/2025",
+    "Date_BS": "11/19/2081",
+    "Gold_Price_Per_Tola": "168100"
+  },
+  {
+    "Date_AD": "03/2/2025",
+    "Date_BS": "11/18/2081",
+    "Gold_Price_Per_Tola": "168100"
+  },
+  {
+    "Date_AD": "02/28/2025",
+    "Date_BS": "11/16/2081",
+    "Gold_Price_Per_Tola": "168100"
+  },
+  {
+    "Date_AD": "02/27/2025",
+    "Date_BS": "11/15/2081",
+    "Gold_Price_Per_Tola": "170300"
+  },
+  {
+    "Date_AD": "02/26/2025",
+    "Date_BS": "11/14/2081",
+    "Gold_Price_Per_Tola": "170500"
+  },
+  {
+    "Date_AD": "02/25/2025",
+    "Date_BS": "11/13/2081",
+    "Gold_Price_Per_Tola": "171300"
+  },
+  {
+    "Date_AD": "02/24/2025",
+    "Date_BS": "11/12/2081",
+    "Gold_Price_Per_Tola": "170800"
+  },
+  {
+    "Date_AD": "02/21/2025",
+    "Date_BS": "11/09/2081",
+    "Gold_Price_Per_Tola": "170000"
+  },
+  {
+    "Date_AD": "02/20/2025",
+    "Date_BS": "11/08/2081",
+    "Gold_Price_Per_Tola": "171000"
+  },
+  {
+    "Date_AD": "02/19/2025",
+    "Date_BS": "11/07/2081",
+    "Gold_Price_Per_Tola": "170500"
+  },
+  {
+    "Date_AD": "02/18/2025",
+    "Date_BS": "11/06/2081",
+    "Gold_Price_Per_Tola": "169400"
+  },
+  {
+    "Date_AD": "02/17/2025",
+    "Date_BS": "11/05/2081",
+    "Gold_Price_Per_Tola": "168700"
+  },
+  {
+    "Date_AD": "02/16/2025",
+    "Date_BS": "11/04/2081",
+    "Gold_Price_Per_Tola": "167500"
+  },
+  {
+    "Date_AD": "02/14/2025",
+    "Date_BS": "11/02/2081",
+    "Gold_Price_Per_Tola": "170200"
+  },
+  {
+    "Date_AD": "02/13/2025",
+    "Date_BS": "11/01/2081",
+    "Gold_Price_Per_Tola": "169800"
+  },
+  {
+    "Date_AD": "02/12/2025",
+    "Date_BS": "10/30/2081",
+    "Gold_Price_Per_Tola": "167500"
+  },
+  {
+    "Date_AD": "02/11/2025",
+    "Date_BS": "10/29/2081",
+    "Gold_Price_Per_Tola": "170200"
+  },
+  {
+    "Date_AD": "02/10/2025",
+    "Date_BS": "10/28/2081",
+    "Gold_Price_Per_Tola": "169600"
+  },
+  {
+    "Date_AD": "02/9/2025",
+    "Date_BS": "10/27/2081",
+    "Gold_Price_Per_Tola": "168200"
+  },
+  {
+    "Date_AD": "02/7/2025",
+    "Date_BS": "10/25/2081",
+    "Gold_Price_Per_Tola": "168100"
+  },
+  {
+    "Date_AD": "02/6/2025",
+    "Date_BS": "10/24/2081",
+    "Gold_Price_Per_Tola": "168500"
+  },
+  {
+    "Date_AD": "02/5/2025",
+    "Date_BS": "10/23/2081",
+    "Gold_Price_Per_Tola": "166900"
+  },
+  {
+    "Date_AD": "02/4/2025",
+    "Date_BS": "10/22/2081",
+    "Gold_Price_Per_Tola": "164700"
+  },
+  {
+    "Date_AD": "02/3/2025",
+    "Date_BS": "10/21/2081",
+    "Gold_Price_Per_Tola": "162800"
+  },
+  {
+    "Date_AD": "02/2/2025",
+    "Date_BS": "10/20/2081",
+    "Gold_Price_Per_Tola": "162800"
+  },
+  {
+    "Date_AD": "01/31/2025",
+    "Date_BS": "10/18/2081",
+    "Gold_Price_Per_Tola": "162800"
+  },
+  {
+    "Date_AD": "01/30/2025",
+    "Date_BS": "10/17/2081",
+    "Gold_Price_Per_Tola": "160500"
+  },
+  {
+    "Date_AD": "01/29/2025",
+    "Date_BS": "10/16/2081",
+    "Gold_Price_Per_Tola": "160600"
+  },
+  {
+    "Date_AD": "01/28/2025",
+    "Date_BS": "10/15/2081",
+    "Gold_Price_Per_Tola": "159200"
+  },
+  {
+    "Date_AD": "01/27/2025",
+    "Date_BS": "10/14/2081",
+    "Gold_Price_Per_Tola": "160100"
+  },
+  {
+    "Date_AD": "01/26/2025",
+    "Date_BS": "10/13/2081",
+    "Gold_Price_Per_Tola": "160400"
+  },
+  {
+    "Date_AD": "01/24/2025",
+    "Date_BS": "10/11/2081",
+    "Gold_Price_Per_Tola": "160600"
+  },
+  {
+    "Date_AD": "01/23/2025",
+    "Date_BS": "10/10/2081",
+    "Gold_Price_Per_Tola": "159600"
+  },
+  {
+    "Date_AD": "01/22/2025",
+    "Date_BS": "10/09/2081",
+    "Gold_Price_Per_Tola": "160000"
+  },
+  {
+    "Date_AD": "01/21/2025",
+    "Date_BS": "10/08/2081",
+    "Gold_Price_Per_Tola": "158100"
+  },
+  {
+    "Date_AD": "01/20/2025",
+    "Date_BS": "10/07/2081",
+    "Gold_Price_Per_Tola": "157000"
+  },
+  {
+    "Date_AD": "01/19/2025",
+    "Date_BS": "10/06/2081",
+    "Gold_Price_Per_Tola": "157100"
+  },
+  {
+    "Date_AD": "01/17/2025",
+    "Date_BS": "10/04/2081",
+    "Gold_Price_Per_Tola": "157900"
+  },
+  {
+    "Date_AD": "01/16/2025",
+    "Date_BS": "10/03/2081",
+    "Gold_Price_Per_Tola": "156600"
+  },
+  {
+    "Date_AD": "01/15/2025",
+    "Date_BS": "10/02/2081",
+    "Gold_Price_Per_Tola": "155400"
+  },
+  {
+    "Date_AD": "01/14/2025",
+    "Date_BS": "10/01/2081",
+    "Gold_Price_Per_Tola": "155000"
+  },
+  {
+    "Date_AD": "01/13/2025",
+    "Date_BS": "09/29/2081",
+    "Gold_Price_Per_Tola": "155800"
+  },
+  {
+    "Date_AD": "01/12/2025",
+    "Date_BS": "09/28/2081",
+    "Gold_Price_Per_Tola": "155700"
+  },
+  {
+    "Date_AD": "01/10/2025",
+    "Date_BS": "09/26/2081",
+    "Gold_Price_Per_Tola": "154100"
+  },
+  {
+    "Date_AD": "01/09/2025",
+    "Date_BS": "09/25/2081",
+    "Gold_Price_Per_Tola": "153300"
+  },
+  {
+    "Date_AD": "01/08/2025",
+    "Date_BS": "09/24/2081",
+    "Gold_Price_Per_Tola": "152500"
+  },
+  {
+    "Date_AD": "01/07/2025",
+    "Date_BS": "09/23/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "01/06/2025",
+    "Date_BS": "09/22/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "01/05/2025",
+    "Date_BS": "09/21/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "01/03/2025",
+    "Date_BS": "09/19/2081",
+    "Gold_Price_Per_Tola": "153500"
+  },
+  {
+    "Date_AD": "01/02/2025",
+    "Date_BS": "09/18/2081",
+    "Gold_Price_Per_Tola": "151500"
+  },
+  {
+    "Date_AD": "01/01/2025",
+    "Date_BS": "09/17/2081",
+    "Gold_Price_Per_Tola": "151000"
+  },
+  {
+    "Date_AD": "Date in A.D",
+    "Date_BS": "Date In B.S",
+    "Gold_Price_Per_Tola": "Gold Rate Per Tola"
+  },
+  {
+    "Date_AD": "12/31/2024",
+    "Date_BS": "09/16/2081",
+    "Gold_Price_Per_Tola": "149600"
+  },
+  {
+    "Date_AD": "12/30/2024",
+    "Date_BS": "09/15/2081",
+    "Gold_Price_Per_Tola": "150200"
+  },
+  {
+    "Date_AD": "12/29/2024",
+    "Date_BS": "09/14/2081",
+    "Gold_Price_Per_Tola": "150200"
+  },
+  {
+    "Date_AD": "12/27/2024",
+    "Date_BS": "09/12/2081",
+    "Gold_Price_Per_Tola": "150700"
+  },
+  {
+    "Date_AD": "12/26/2024",
+    "Date_BS": "09/11/2081",
+    "Gold_Price_Per_Tola": "150300"
+  },
+  {
+    "Date_AD": "12/25/2024",
+    "Date_BS": "09/10/2081",
+    "Gold_Price_Per_Tola": "149700"
+  },
+  {
+    "Date_AD": "12/24/2024",
+    "Date_BS": "09/09/2081",
+    "Gold_Price_Per_Tola": "149800"
+  },
+  {
+    "Date_AD": "12/23/2024",
+    "Date_BS": "09/08/2081",
+    "Gold_Price_Per_Tola": "149800"
+  },
+  {
+    "Date_AD": "12/22/2024",
+    "Date_BS": "09/07/2081",
+    "Gold_Price_Per_Tola": "149600"
+  },
+  {
+    "Date_AD": "12/20/2024",
+    "Date_BS": "09/05/2081",
+    "Gold_Price_Per_Tola": "148500"
+  },
+  {
+    "Date_AD": "12/19/2024",
+    "Date_BS": "09/04/2081",
+    "Gold_Price_Per_Tola": "149000"
+  },
+  {
+    "Date_AD": "12/18/2024",
+    "Date_BS": "09/03/2081",
+    "Gold_Price_Per_Tola": "150700"
+  },
+  {
+    "Date_AD": "12/17/2024",
+    "Date_BS": "09/02/2081",
+    "Gold_Price_Per_Tola": "151400"
+  },
+  {
+    "Date_AD": "12/16/2024",
+    "Date_BS": "09/01/2081",
+    "Gold_Price_Per_Tola": "151200"
+  },
+  {
+    "Date_AD": "12/15/2024",
+    "Date_BS": "08/30/2081",
+    "Gold_Price_Per_Tola": "150800"
+  },
+  {
+    "Date_AD": "12/13/2024",
+    "Date_BS": "08/28/2081",
+    "Gold_Price_Per_Tola": "153000"
+  },
+  {
+    "Date_AD": "12/12/2024",
+    "Date_BS": "08/27/2081",
+    "Gold_Price_Per_Tola": "154200"
+  },
+  {
+    "Date_AD": "12/11/2024",
+    "Date_BS": "08/26/2081",
+    "Gold_Price_Per_Tola": "154200"
+  },
+  {
+    "Date_AD": "12/10/2024",
+    "Date_BS": "08/25/2081",
+    "Gold_Price_Per_Tola": "152200"
+  },
+  {
+    "Date_AD": "12/09/2024",
+    "Date_BS": "08/24/2081",
+    "Gold_Price_Per_Tola": "150100"
+  },
+  {
+    "Date_AD": "12/08/2024",
+    "Date_BS": "08/23/2081",
+    "Gold_Price_Per_Tola": "149700"
+  },
+  {
+    "Date_AD": "12/06/2024",
+    "Date_BS": "08/21/2081",
+    "Gold_Price_Per_Tola": "150100"
+  },
+  {
+    "Date_AD": "12/05/2024",
+    "Date_BS": "08/20/2081",
+    "Gold_Price_Per_Tola": "150700"
+  },
+  {
+    "Date_AD": "12/04/2024",
+    "Date_BS": "08/19/2081",
+    "Gold_Price_Per_Tola": "150400"
+  },
+  {
+    "Date_AD": "12/03/2024",
+    "Date_BS": "08/18/2081",
+    "Gold_Price_Per_Tola": "150300"
+  },
+  {
+    "Date_AD": "12/02/2024",
+    "Date_BS": "08/17/2081",
+    "Gold_Price_Per_Tola": "149300"
+  },
+  {
+    "Date_AD": "12/01/2024",
+    "Date_BS": "08/16/2081",
+    "Gold_Price_Per_Tola": "150500"
+  },
+  {
+    "Date_AD": "11/29/2024",
+    "Date_BS": "08/14/2081",
+    "Gold_Price_Per_Tola": "150900"
+  },
+  {
+    "Date_AD": "11/28/2024",
+    "Date_BS": "08/13/2081",
+    "Gold_Price_Per_Tola": "149300"
+  },
+  {
+    "Date_AD": "11/27/2024",
+    "Date_BS": "08/12/2081",
+    "Gold_Price_Per_Tola": "149600"
+  },
+  {
+    "Date_AD": "11/26/2024",
+    "Date_BS": "08/11/2081",
+    "Gold_Price_Per_Tola": "148700"
+  },
+  {
+    "Date_AD": "11/25/2024",
+    "Date_BS": "08/10/2081",
+    "Gold_Price_Per_Tola": "151300"
+  },
+  {
+    "Date_AD": "11/24/2024",
+    "Date_BS": "08/09/2081",
+    "Gold_Price_Per_Tola": "167200"
+  },
+  {
+    "Date_AD": "11/22/2024",
+    "Date_BS": "08/07/2081",
+    "Gold_Price_Per_Tola": "165500"
+  },
+  {
+    "Date_AD": "11/21/2024",
+    "Date_BS": "08/06/2081",
+    "Gold_Price_Per_Tola": "164000"
+  },
+  {
+    "Date_AD": "11/20/2024",
+    "Date_BS": "08/05/2081",
+    "Gold_Price_Per_Tola": "163000"
+  },
+  {
+    "Date_AD": "11/19/2024",
+    "Date_BS": "08/04/2081",
+    "Gold_Price_Per_Tola": "162100"
+  },
+  {
+    "Date_AD": "11/18/2024",
+    "Date_BS": "08/03/2081",
+    "Gold_Price_Per_Tola": "161000"
+  },
+  {
+    "Date_AD": "11/17/2024",
+    "Date_BS": "08/02/2081",
+    "Gold_Price_Per_Tola": "160000"
+  },
+  {
+    "Date_AD": "11/15/2024",
+    "Date_BS": "07/30/2081",
+    "Gold_Price_Per_Tola": "160100"
+  },
+  {
+    "Date_AD": "11/14/2024",
+    "Date_BS": "07/29/2081",
+    "Gold_Price_Per_Tola": "160000"
+  },
+  {
+    "Date_AD": "11/13/2024",
+    "Date_BS": "07/28/2081",
+    "Gold_Price_Per_Tola": "162200"
+  },
+  {
+    "Date_AD": "11/12/2024",
+    "Date_BS": "07/27/2081",
+    "Gold_Price_Per_Tola": "162600"
+  },
+  {
+    "Date_AD": "11/11/2024",
+    "Date_BS": "07/26/2081",
+    "Gold_Price_Per_Tola": "165000"
+  },
+  {
+    "Date_AD": "11/10/2024",
+    "Date_BS": "07/25/2081",
+    "Gold_Price_Per_Tola": "166000"
+  },
+  {
+    "Date_AD": "11/08/2024",
+    "Date_BS": "07/23/2081",
+    "Gold_Price_Per_Tola": "166500"
+  },
+  {
+    "Date_AD": "11/07/2024",
+    "Date_BS": "07/22/2081",
+    "Gold_Price_Per_Tola": "164500"
+  },
+  {
+    "Date_AD": "11/06/2024",
+    "Date_BS": "07/21/2081",
+    "Gold_Price_Per_Tola": "168500"
+  },
+  {
+    "Date_AD": "11/05/2024",
+    "Date_BS": "07/20/2081",
+    "Gold_Price_Per_Tola": "168200"
+  },
+  {
+    "Date_AD": "10/31/2024",
+    "Date_BS": "07/15/2081",
+    "Gold_Price_Per_Tola": "171000"
+  },
+  {
+    "Date_AD": "10/30/2024",
+    "Date_BS": "07/14/2081",
+    "Gold_Price_Per_Tola": "170700"
+  },
+  {
+    "Date_AD": "10/29/2024",
+    "Date_BS": "07/13/2081",
+    "Gold_Price_Per_Tola": "168500"
+  },
+  {
+    "Date_AD": "10/28/2024",
+    "Date_BS": "07/12/2081",
+    "Gold_Price_Per_Tola": "167000"
+  },
+  {
+    "Date_AD": "10/27/2024",
+    "Date_BS": "07/11/2081",
+    "Gold_Price_Per_Tola": "167400"
+  },
+  {
+    "Date_AD": "10/25/2024",
+    "Date_BS": "07/09/2081",
+    "Gold_Price_Per_Tola": "166000"
+  },
+  {
+    "Date_AD": "10/24/2024",
+    "Date_BS": "07/08/2081",
+    "Gold_Price_Per_Tola": "166000"
+  },
+  {
+    "Date_AD": "10/23/2024",
+    "Date_BS": "07/07/2081",
+    "Gold_Price_Per_Tola": "166700"
+  },
+  {
+    "Date_AD": "10/22/2024",
+    "Date_BS": "07/06/2081",
+    "Gold_Price_Per_Tola": "165900"
+  },
+  {
+    "Date_AD": "10/21/2024",
+    "Date_BS": "07/05/2081",
+    "Gold_Price_Per_Tola": "165600"
+  },
+  {
+    "Date_AD": "10/20/2024",
+    "Date_BS": "07/04/2081",
+    "Gold_Price_Per_Tola": "165000"
+  },
+  {
+    "Date_AD": "10/18/2024",
+    "Date_BS": "07/02/2081",
+    "Gold_Price_Per_Tola": "164400"
+  },
+  {
+    "Date_AD": "10/17/2024",
+    "Date_BS": "07/01/2081",
+    "Gold_Price_Per_Tola": "162400"
+  },
+  {
+    "Date_AD": "10/16/2024",
+    "Date_BS": "06/30/2081",
+    "Gold_Price_Per_Tola": "161800"
+  },
+  {
+    "Date_AD": "10/09/2024",
+    "Date_BS": "06/23/2081",
+    "Gold_Price_Per_Tola": "159100"
+  },
+  {
+    "Date_AD": "10/08/2024",
+    "Date_BS": "06/22/2081",
+    "Gold_Price_Per_Tola": "160100"
+  },
+  {
+    "Date_AD": "10/07/2024",
+    "Date_BS": "06/21/2081",
+    "Gold_Price_Per_Tola": "160500"
+  },
+  {
+    "Date_AD": "10/06/2024",
+    "Date_BS": "06/20/2081",
+    "Gold_Price_Per_Tola": "161000"
+  },
+  {
+    "Date_AD": "10/04/2024",
+    "Date_BS": "06/18/2081",
+    "Gold_Price_Per_Tola": "161300"
+  },
+  {
+    "Date_AD": "10/03/2024",
+    "Date_BS": "06/17/2081",
+    "Gold_Price_Per_Tola": "160900"
+  },
+  {
+    "Date_AD": "10/02/2024",
+    "Date_BS": "06/16/2081",
+    "Gold_Price_Per_Tola": "160800"
+  },
+  {
+    "Date_AD": "10/01/2024",
+    "Date_BS": "06/15/2081",
+    "Gold_Price_Per_Tola": "160000"
+  },
+  {
+    "Date_AD": "09/30/2024",
+    "Date_BS": "06/14/2081",
+    "Gold_Price_Per_Tola": "160500"
+  },
+  {
+    "Date_AD": "09/29/2024",
+    "Date_BS": "06/13/2081",
+    "Gold_Price_Per_Tola": "160600"
+  },
+  {
+    "Date_AD": "09/27/2024",
+    "Date_BS": "06/11/2081",
+    "Gold_Price_Per_Tola": "161200"
+  },
+  {
+    "Date_AD": "09/26/2024",
+    "Date_BS": "06/10/2081",
+    "Gold_Price_Per_Tola": "160700"
+  },
+  {
+    "Date_AD": "09/25/2024",
+    "Date_BS": "06/9/2081",
+    "Gold_Price_Per_Tola": "160400"
+  },
+  {
+    "Date_AD": "09/24/2024",
+    "Date_BS": "06/8/2081",
+    "Gold_Price_Per_Tola": "159700"
+  },
+  {
+    "Date_AD": "09/23/2024",
+    "Date_BS": "06/7/2081",
+    "Gold_Price_Per_Tola": "159200"
+  },
+  {
+    "Date_AD": "09/22/2024",
+    "Date_BS": "06/6/2081",
+    "Gold_Price_Per_Tola": "158800"
+  },
+  {
+    "Date_AD": "09/20/2024",
+    "Date_BS": "06/4/2081",
+    "Gold_Price_Per_Tola": "157100"
+  },
+  {
+    "Date_AD": "09/19/2024",
+    "Date_BS": "06/3/2081",
+    "Gold_Price_Per_Tola": "155600"
+  },
+  {
+    "Date_AD": "09/18/2024",
+    "Date_BS": "06/2/2081",
+    "Gold_Price_Per_Tola": "156400"
+  },
+  {
+    "Date_AD": "09/17/2024",
+    "Date_BS": "06/1/2081",
+    "Gold_Price_Per_Tola": "156700"
+  },
+  {
+    "Date_AD": "09/16/2024",
+    "Date_BS": "05/31/2081",
+    "Gold_Price_Per_Tola": "157300"
+  },
+  {
+    "Date_AD": "09/15/2024",
+    "Date_BS": "05/30/2081",
+    "Gold_Price_Per_Tola": "156800"
+  },
+  {
+    "Date_AD": "09/13/2024",
+    "Date_BS": "05/28/2081",
+    "Gold_Price_Per_Tola": "156300"
+  },
+  {
+    "Date_AD": "09/12/2024",
+    "Date_BS": "05/27/2081",
+    "Gold_Price_Per_Tola": "153300"
+  },
+  {
+    "Date_AD": "09/11/2024",
+    "Date_BS": "05/26/2081",
+    "Gold_Price_Per_Tola": "153400"
+  },
+  {
+    "Date_AD": "09/10/2024",
+    "Date_BS": "05/25/2081",
+    "Gold_Price_Per_Tola": "152400"
+  },
+  {
+    "Date_AD": "09/09/2024",
+    "Date_BS": "05/24/2081",
+    "Gold_Price_Per_Tola": "152200"
+  },
+  {
+    "Date_AD": "09/08/2024",
+    "Date_BS": "05/23/2081",
+    "Gold_Price_Per_Tola": "152100"
+  },
+  {
+    "Date_AD": "09/06/2024",
+    "Date_BS": "05/21/2081",
+    "Gold_Price_Per_Tola": "153300"
+  },
+  {
+    "Date_AD": "09/05/2024",
+    "Date_BS": "05/20/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "09/04/2024",
+    "Date_BS": "05/19/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "09/03/2024",
+    "Date_BS": "05/18/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "09/02/2024",
+    "Date_BS": "05/17/2081",
+    "Gold_Price_Per_Tola": "152000"
+  },
+  {
+    "Date_AD": "09/01/2024",
+    "Date_BS": "05/16/2081",
+    "Gold_Price_Per_Tola": "152300"
+  },
+  {
+    "Date_AD": "08/30/2024",
+    "Date_BS": "05/14/2081",
+    "Gold_Price_Per_Tola": "152900"
+  },
+  {
+    "Date_AD": "08/29/2024",
+    "Date_BS": "05/13/2081",
+    "Gold_Price_Per_Tola": "153200"
+  },
+  {
+    "Date_AD": "08/28/2024",
+    "Date_BS": "05/12/2081",
+    "Gold_Price_Per_Tola": "153100"
+  },
+  {
+    "Date_AD": "08/27/2024",
+    "Date_BS": "05/11/2081",
+    "Gold_Price_Per_Tola": "152300"
+  },
+  {
+    "Date_AD": "08/26/2024",
+    "Date_BS": "05/10/2081",
+    "Gold_Price_Per_Tola": "152300"
+  },
+  {
+    "Date_AD": "08/25/2024",
+    "Date_BS": "05/09/2081",
+    "Gold_Price_Per_Tola": "152400"
+  },
+  {
+    "Date_AD": "08/23/2024",
+    "Date_BS": "05/07/2081",
+    "Gold_Price_Per_Tola": "151400"
+  },
+  {
+    "Date_AD": "08/22/2024",
+    "Date_BS": "05/06/2081",
+    "Gold_Price_Per_Tola": "151900"
+  },
+  {
+    "Date_AD": "08/21/2024",
+    "Date_BS": "05/05/2081",
+    "Gold_Price_Per_Tola": "153000"
+  },
+  {
+    "Date_AD": "08/20/2024",
+    "Date_BS": "05/04/2081",
+    "Gold_Price_Per_Tola": "152200"
+  },
+  {
+    "Date_AD": "08/19/2024",
+    "Date_BS": "05/03/2081",
+    "Gold_Price_Per_Tola": "152300"
+  },
+  {
+    "Date_AD": "08/18/2024",
+    "Date_BS": "05/02/2081",
+    "Gold_Price_Per_Tola": "152600"
+  },
+  {
+    "Date_AD": "08/16/2024",
+    "Date_BS": "04/32/2081",
+    "Gold_Price_Per_Tola": "149600"
+  },
+  {
+    "Date_AD": "08/14/2024",
+    "Date_BS": "04/30/2081",
+    "Gold_Price_Per_Tola": "150500"
+  },
+  {
+    "Date_AD": "08/13/2024",
+    "Date_BS": "04/29/2081",
+    "Gold_Price_Per_Tola": "150800"
+  },
+  {
+    "Date_AD": "08/12/2024",
+    "Date_BS": "04/28/2081",
+    "Gold_Price_Per_Tola": "148700"
+  },
+  {
+    "Date_AD": "08/11/2024",
+    "Date_BS": "04/27/2081",
+    "Gold_Price_Per_Tola": "148800"
+  },
+  {
+    "Date_AD": "08/09/2024",
+    "Date_BS": "04/25/2081",
+    "Gold_Price_Per_Tola": "148100"
+  },
+  {
+    "Date_AD": "08/08/2024",
+    "Date_BS": "04/24/2081",
+    "Gold_Price_Per_Tola": "146600"
+  },
+  {
+    "Date_AD": "08/07/2024",
+    "Date_BS": "04/23/2081",
+    "Gold_Price_Per_Tola": "146300"
+  },
+  {
+    "Date_AD": "08/06/2024",
+    "Date_BS": "04/22/2081",
+    "Gold_Price_Per_Tola": "147700"
+  },
+  {
+    "Date_AD": "08/04/2024",
+    "Date_BS": "04/20/2081",
+    "Gold_Price_Per_Tola": "149700"
+  },
+  {
+    "Date_AD": "08/02/2024",
+    "Date_BS": "04/18/2081",
+    "Gold_Price_Per_Tola": "149900"
+  },
+  {
+    "Date_AD": "08/01/2024",
+    "Date_BS": "04/17/2081",
+    "Gold_Price_Per_Tola": "149400"
+  },
+  {
+    "Date_AD": "07/31/2024",
+    "Date_BS": "04/16/2081",
+    "Gold_Price_Per_Tola": "147800"
+  },
+  {
+    "Date_AD": "07/30/2024",
+    "Date_BS": "04/15/2081",
+    "Gold_Price_Per_Tola": "146000"
+  },
+  {
+    "Date_AD": "07/29/2024",
+    "Date_BS": "04/14/2081",
+    "Gold_Price_Per_Tola": "146100"
+  },
+  {
+    "Date_AD": "07/26/2024",
+    "Date_BS": "04/11/2081",
+    "Gold_Price_Per_Tola": "144700"
+  },
+  {
+    "Date_AD": "07/25/2024",
+    "Date_BS": "04/10/2081",
+    "Gold_Price_Per_Tola": "145000"
+  },
+  {
+    "Date_AD": "07/24/2024",
+    "Date_BS": "04/09/2081",
+    "Gold_Price_Per_Tola": "147400"
+  },
+  {
+    "Date_AD": "07/22/2024",
+    "Date_BS": "04/07/2081",
+    "Gold_Price_Per_Tola": "146300"
+  },
+  {
+    "Date_AD": "07/21/2024",
+    "Date_BS": "04/06/2081",
+    "Gold_Price_Per_Tola": "146500"
+  },
+  {
+    "Date_AD": "07/19/2024",
+    "Date_BS": "04/04/2081",
+    "Gold_Price_Per_Tola": "147500"
+  },
+  {
+    "Date_AD": "07/18/2024",
+    "Date_BS": "04/03/2081",
+    "Gold_Price_Per_Tola": "149500"
+  },
+  {
+    "Date_AD": "07/17/2024",
+    "Date_BS": "04/02/2081",
+    "Gold_Price_Per_Tola": "149800"
+  },
+  {
+    "Date_AD": "07/16/2024",
+    "Date_BS": "04/01/2081",
+    "Gold_Price_Per_Tola": "147800"
+  },
+  {
+    "Date_AD": "07/15/2024",
+    "Date_BS": "03/31/2081",
+    "Gold_Price_Per_Tola": "146900"
+  },
+  {
+    "Date_AD": "07/14/2024",
+    "Date_BS": "03/30/2081",
+    "Gold_Price_Per_Tola": "146700"
+  },
+  {
+    "Date_AD": "07/12/2024",
+    "Date_BS": "03/28/2081",
+    "Gold_Price_Per_Tola": "146700"
+  },
+  {
+    "Date_AD": "07/11/2024",
+    "Date_BS": "03/27/2081",
+    "Gold_Price_Per_Tola": "144900"
+  },
+  {
+    "Date_AD": "07/10/2024",
+    "Date_BS": "03/26/2081",
+    "Gold_Price_Per_Tola": "144100"
+  },
+  {
+    "Date_AD": "07/09/2024",
+    "Date_BS": "03/25/2081",
+    "Gold_Price_Per_Tola": "144100"
+  },
+  {
+    "Date_AD": "07/08/2024",
+    "Date_BS": "03/24/2081",
+    "Gold_Price_Per_Tola": "145000"
+  },
+  {
+    "Date_AD": "07/07/2024",
+    "Date_BS": "03/23/2081",
+    "Gold_Price_Per_Tola": "145400"
+  },
+  {
+    "Date_AD": "07/05/2024",
+    "Date_BS": "03/21/2081",
+    "Gold_Price_Per_Tola": "144400"
+  },
+  {
+    "Date_AD": "07/04/2024",
+    "Date_BS": "03/20/2081",
+    "Gold_Price_Per_Tola": "144300"
+  },
+  {
+    "Date_AD": "07/03/2024",
+    "Date_BS": "03/19/2081",
+    "Gold_Price_Per_Tola": "142700"
+  },
+  {
+    "Date_AD": "07/02/2024",
+    "Date_BS": "03/18/2081",
+    "Gold_Price_Per_Tola": "142300"
+  },
+  {
+    "Date_AD": "07/01/2024",
+    "Date_BS": "03/17/2081",
+    "Gold_Price_Per_Tola": "142200"
+  },
+  {
+    "Date_AD": "06/30/2024",
+    "Date_BS": "03/16/2081",
+    "Gold_Price_Per_Tola": "142000"
+  },
+  {
+    "Date_AD": "06/28/2024",
+    "Date_BS": "03/14/2081",
+    "Gold_Price_Per_Tola": "141800"
+  },
+  {
+    "Date_AD": "06/27/2024",
+    "Date_BS": "03/13/2081",
+    "Gold_Price_Per_Tola": "140800"
+  },
+  {
+    "Date_AD": "06/26/2024",
+    "Date_BS": "03/12/2081",
+    "Gold_Price_Per_Tola": "141600"
+  },
+  {
+    "Date_AD": "06/25/2024",
+    "Date_BS": "03/11/2081",
+    "Gold_Price_Per_Tola": "142300"
+  },
+  {
+    "Date_AD": "06/24/2024",
+    "Date_BS": "03/10/2081",
+    "Gold_Price_Per_Tola": "142300"
+  },
+  {
+    "Date_AD": "06/23/2024",
+    "Date_BS": "03/09/2081",
+    "Gold_Price_Per_Tola": "142000"
+  },
+  {
+    "Date_AD": "06/21/2024",
+    "Date_BS": "03/07/2081",
+    "Gold_Price_Per_Tola": "144700"
+  },
+  {
+    "Date_AD": "06/20/2024",
+    "Date_BS": "03/06/2081",
+    "Gold_Price_Per_Tola": "142800"
+  },
+  {
+    "Date_AD": "06/19/2024",
+    "Date_BS": "03/05/2081",
+    "Gold_Price_Per_Tola": "142200"
+  },
+  {
+    "Date_AD": "06/18/2024",
+    "Date_BS": "03/04/2081",
+    "Gold_Price_Per_Tola": "142200"
+  },
+  {
+    "Date_AD": "06/17/2024",
+    "Date_BS": "03/03/2081",
+    "Gold_Price_Per_Tola": "141200"
+  },
+  {
+    "Date_AD": "06/16/2024",
+    "Date_BS": "03/02/2081",
+    "Gold_Price_Per_Tola": "142800"
+  },
+  {
+    "Date_AD": "06/14/2024",
+    "Date_BS": "02/32/2081",
+    "Gold_Price_Per_Tola": "141200"
+  },
+  {
+    "Date_AD": "06/13/2024",
+    "Date_BS": "02/31/2081",
+    "Gold_Price_Per_Tola": "141600"
+  },
+  {
+    "Date_AD": "06/12/2024",
+    "Date_BS": "02/30/2081",
+    "Gold_Price_Per_Tola": "141600"
+  },
+  {
+    "Date_AD": "06/11/2024",
+    "Date_BS": "02/29/2081",
+    "Gold_Price_Per_Tola": "141000"
+  },
+  {
+    "Date_AD": "06/10/2024",
+    "Date_BS": "02/28/2081",
+    "Gold_Price_Per_Tola": "141000"
+  },
+  {
+    "Date_AD": "06/09/2024",
+    "Date_BS": "02/27/2081",
+    "Gold_Price_Per_Tola": "141000"
+  },
+  {
+    "Date_AD": "06/07/2024",
+    "Date_BS": "02/25/2081",
+    "Gold_Price_Per_Tola": "145000"
+  },
+  {
+    "Date_AD": "06/06/2024",
+    "Date_BS": "02/24/2081",
+    "Gold_Price_Per_Tola": "144000"
+  },
+  {
+    "Date_AD": "06/05/2024",
+    "Date_BS": "02/23/2081",
+    "Gold_Price_Per_Tola": "142200"
+  },
+  {
+    "Date_AD": "06/04/2024",
+    "Date_BS": "02/22/2081",
+    "Gold_Price_Per_Tola": "142700"
+  },
+  {
+    "Date_AD": "06/03/2024",
+    "Date_BS": "02/21/2081",
+    "Gold_Price_Per_Tola": "141000"
+  },
+  {
+    "Date_AD": "06/02/2024",
+    "Date_BS": "02/20/2081",
+    "Gold_Price_Per_Tola": "142000"
+  },
+  {
+    "Date_AD": "05/31/2024",
+    "Date_BS": "02/18/2081",
+    "Gold_Price_Per_Tola": "142200"
+  },
+  {
+    "Date_AD": "05/30/2024",
+    "Date_BS": "02/17/2081",
+    "Gold_Price_Per_Tola": "140500"
+  },
+  {
+    "Date_AD": "05/29/2024",
+    "Date_BS": "02/16/2081",
+    "Gold_Price_Per_Tola": "138200"
+  },
+  {
+    "Date_AD": "05/28/2024",
+    "Date_BS": "02/15/2081",
+    "Gold_Price_Per_Tola": "137600"
+  },
+  {
+    "Date_AD": "05/27/2024",
+    "Date_BS": "02/14/2081",
+    "Gold_Price_Per_Tola": "137200"
+  },
+  {
+    "Date_AD": "05/26/2024",
+    "Date_BS": "02/13/2081",
+    "Gold_Price_Per_Tola": "136900"
+  },
+  {
+    "Date_AD": "05/24/2024",
+    "Date_BS": "02/11/2081",
+    "Gold_Price_Per_Tola": "136900"
+  },
+  {
+    "Date_AD": "05/23/2024",
+    "Date_BS": "02/10/2081",
+    "Gold_Price_Per_Tola": "138700"
+  },
+  {
+    "Date_AD": "05/22/2024",
+    "Date_BS": "02/09/2081",
+    "Gold_Price_Per_Tola": "140500"
+  },
+  {
+    "Date_AD": "05/21/2024",
+    "Date_BS": "02/08/2081",
+    "Gold_Price_Per_Tola": "140600"
+  },
+  {
+    "Date_AD": "05/20/2024",
+    "Date_BS": "02/07/2081",
+    "Gold_Price_Per_Tola": "141800"
+  },
+  {
+    "Date_AD": "05/19/2024",
+    "Date_BS": "02/06/2081",
+    "Gold_Price_Per_Tola": "140900"
+  },
+  {
+    "Date_AD": "05/17/2024",
+    "Date_BS": "02/04/2081",
+    "Gold_Price_Per_Tola": "139300"
+  },
+  {
+    "Date_AD": "05/16/2024",
+    "Date_BS": "02/03/2081",
+    "Gold_Price_Per_Tola": "140000"
+  },
+  {
+    "Date_AD": "05/15/2024",
+    "Date_BS": "02/02/2081",
+    "Gold_Price_Per_Tola": "138400"
+  },
+  {
+    "Date_AD": "05/14/2024",
+    "Date_BS": "02/01/2081",
+    "Gold_Price_Per_Tola": "137400"
+  },
+  {
+    "Date_AD": "05/13/2024",
+    "Date_BS": "01/31/2081",
+    "Gold_Price_Per_Tola": "138100"
+  },
+  {
+    "Date_AD": "05/12/2024",
+    "Date_BS": "01/30/2081",
+    "Gold_Price_Per_Tola": "138400"
+  },
+  {
+    "Date_AD": "05/10/2024",
+    "Date_BS": "01/28/2081",
+    "Gold_Price_Per_Tola": "137900"
+  },
+  {
+    "Date_AD": "05/09/2024",
+    "Date_BS": "01/27/2081",
+    "Gold_Price_Per_Tola": "135600"
+  },
+  {
+    "Date_AD": "05/08/2024",
+    "Date_BS": "01/26/2081",
+    "Gold_Price_Per_Tola": "136400"
+  },
+  {
+    "Date_AD": "05/07/2024",
+    "Date_BS": "01/25/2081",
+    "Gold_Price_Per_Tola": "136400"
+  },
+  {
+    "Date_AD": "05/06/2024",
+    "Date_BS": "01/24/2081",
+    "Gold_Price_Per_Tola": "135600"
+  },
+  {
+    "Date_AD": "05/03/2024",
+    "Date_BS": "01/21/2081",
+    "Gold_Price_Per_Tola": "135400"
+  },
+  {
+    "Date_AD": "05/02/2024",
+    "Date_BS": "01/20/2081",
+    "Gold_Price_Per_Tola": "136500"
+  },
+  {
+    "Date_AD": "05/01/2024",
+    "Date_BS": "01/19/2081",
+    "Gold_Price_Per_Tola": "134500"
+  },
+  {
+    "Date_AD": "04/30/2024",
+    "Date_BS": "01/18/2081",
+    "Gold_Price_Per_Tola": "137200"
+  },
+  {
+    "Date_AD": "04/29/2024",
+    "Date_BS": "01/17/2081",
+    "Gold_Price_Per_Tola": "137200"
+  },
+  {
+    "Date_AD": "04/28/2024",
+    "Date_BS": "01/16/2081",
+    "Gold_Price_Per_Tola": "137600"
+  },
+  {
+    "Date_AD": "04/26/2024",
+    "Date_BS": "01/14/2081",
+    "Gold_Price_Per_Tola": "137200"
+  },
+  {
+    "Date_AD": "04/25/2024",
+    "Date_BS": "01/13/2081",
+    "Gold_Price_Per_Tola": "135800"
+  },
+  {
+    "Date_AD": "04/24/2024",
+    "Date_BS": "01/12/2081",
+    "Gold_Price_Per_Tola": "136000"
+  },
+  {
+    "Date_AD": "04/23/2024",
+    "Date_BS": "01/11/2081",
+    "Gold_Price_Per_Tola": "135500"
+  },
+  {
+    "Date_AD": "04/22/2024",
+    "Date_BS": "01/10/2081",
+    "Gold_Price_Per_Tola": "138200"
+  },
+  {
+    "Date_AD": "04/21/2024",
+    "Date_BS": "01/09/2081",
+    "Gold_Price_Per_Tola": "139300"
+  },
+  {
+    "Date_AD": "04/19/2024",
+    "Date_BS": "01/07/2081",
+    "Gold_Price_Per_Tola": "139300"
+  },
+  {
+    "Date_AD": "04/18/2024",
+    "Date_BS": "01/06/2081",
+    "Gold_Price_Per_Tola": "138600"
+  },
+  {
+    "Date_AD": "04/17/2024",
+    "Date_BS": "01/05/2081",
+    "Gold_Price_Per_Tola": "139200"
+  },
+  {
+    "Date_AD": "04/16/2024",
+    "Date_BS": "01/04/2081",
+    "Gold_Price_Per_Tola": "139200"
+  },
+  {
+    "Date_AD": "04/15/2024",
+    "Date_BS": "01/03/2081",
+    "Gold_Price_Per_Tola": "137500"
+  },
+  {
+    "Date_AD": "04/14/2024",
+    "Date_BS": "01/02/2081",
+    "Gold_Price_Per_Tola": "136800"
+  },
+  {
+    "Date_AD": "04/12/2024",
+    "Date_BS": "12/30/2080",
+    "Gold_Price_Per_Tola": "139000"
+  },
+  {
+    "Date_AD": "04/11/2024",
+    "Date_BS": "12/29/2080",
+    "Gold_Price_Per_Tola": "136600"
+  },
+  {
+    "Date_AD": "04/10/2024",
+    "Date_BS": "12/28/2080",
+    "Gold_Price_Per_Tola": "136800"
+  },
+  {
+    "Date_AD": "04/09/2024",
+    "Date_BS": "12/27/2080",
+    "Gold_Price_Per_Tola": "136300"
+  },
+  {
+    "Date_AD": "04/08/2024",
+    "Date_BS": "12/26/2080",
+    "Gold_Price_Per_Tola": "136200"
+  },
+  {
+    "Date_AD": "04/07/2024",
+    "Date_BS": "12/25/2080",
+    "Gold_Price_Per_Tola": "135600"
+  },
+  {
+    "Date_AD": "04/05/2024",
+    "Date_BS": "12/23/2080",
+    "Gold_Price_Per_Tola": "132700"
+  },
+  {
+    "Date_AD": "04/04/2024",
+    "Date_BS": "12/22/2080",
+    "Gold_Price_Per_Tola": "134000"
+  },
+  {
+    "Date_AD": "04/03/2024",
+    "Date_BS": "12/21/2080",
+    "Gold_Price_Per_Tola": "133000"
+  },
+  {
+    "Date_AD": "04/02/2024",
+    "Date_BS": "12/20/2080",
+    "Gold_Price_Per_Tola": "131200"
+  },
+  {
+    "Date_AD": "04/01/2024",
+    "Date_BS": "12/19/2080",
+    "Gold_Price_Per_Tola": "131600"
+  },
+  {
+    "Date_AD": "03/31/2024",
+    "Date_BS": "12/18/2080",
+    "Gold_Price_Per_Tola": "130000"
+  },
+  {
+    "Date_AD": "03/29/2024",
+    "Date_BS": "12/16/2080",
+    "Gold_Price_Per_Tola": "130000"
+  },
+  {
+    "Date_AD": "03/28/2024",
+    "Date_BS": "12/15/2080",
+    "Gold_Price_Per_Tola": "127900"
+  },
+  {
+    "Date_AD": "03/27/2024",
+    "Date_BS": "12/14/2080",
+    "Gold_Price_Per_Tola": "126800"
+  },
+  {
+    "Date_AD": "03/26/2024",
+    "Date_BS": "12/13/2080",
+    "Gold_Price_Per_Tola": "126400"
+  },
+  {
+    "Date_AD": "03/25/2024",
+    "Date_BS": "12/12/2080",
+    "Gold_Price_Per_Tola": "126700"
+  },
+  {
+    "Date_AD": "03/22/2024",
+    "Date_BS": "12/09/2080",
+    "Gold_Price_Per_Tola": "126500"
+  },
+  {
+    "Date_AD": "03/21/2024",
+    "Date_BS": "12/08/2080",
+    "Gold_Price_Per_Tola": "127800"
+  },
+  {
+    "Date_AD": "03/20/2024",
+    "Date_BS": "12/07/2080",
+    "Gold_Price_Per_Tola": "125200"
+  },
+  {
+    "Date_AD": "03/19/2024",
+    "Date_BS": "12/06/2080",
+    "Gold_Price_Per_Tola": "125200"
+  },
+  {
+    "Date_AD": "03/18/2024",
+    "Date_BS": "12/05/2080",
+    "Gold_Price_Per_Tola": "124500"
+  },
+  {
+    "Date_AD": "03/17/2024",
+    "Date_BS": "12/04/2080",
+    "Gold_Price_Per_Tola": "125000"
+  },
+  {
+    "Date_AD": "03/15/2024",
+    "Date_BS": "12/02/2080",
+    "Gold_Price_Per_Tola": "125400"
+  },
+  {
+    "Date_AD": "03/14/2024",
+    "Date_BS": "12/01/2080",
+    "Gold_Price_Per_Tola": "125800"
+  },
+  {
+    "Date_AD": "03/13/2024",
+    "Date_BS": "11/30/2080",
+    "Gold_Price_Per_Tola": "125000"
+  },
+  {
+    "Date_AD": "03/12/2024",
+    "Date_BS": "11/29/2080",
+    "Gold_Price_Per_Tola": "126000"
+  },
+  {
+    "Date_AD": "03/11/2024",
+    "Date_BS": "11/28/2080",
+    "Gold_Price_Per_Tola": "126000"
+  },
+  {
+    "Date_AD": "03/10/2024",
+    "Date_BS": "11/27/2080",
+    "Gold_Price_Per_Tola": "126000"
+  },
+  {
+    "Date_AD": "03/08/2024",
+    "Date_BS": "11/25/2080",
+    "Gold_Price_Per_Tola": "125000"
+  },
+  {
+    "Date_AD": "03/07/2024",
+    "Date_BS": "11/24/2080",
+    "Gold_Price_Per_Tola": "125000"
+  },
+  {
+    "Date_AD": "03/06/2024",
+    "Date_BS": "11/23/2080",
+    "Gold_Price_Per_Tola": "123500"
+  },
+  {
+    "Date_AD": "03/05/2024",
+    "Date_BS": "11/22/2080",
+    "Gold_Price_Per_Tola": "123000"
+  },
+  {
+    "Date_AD": "03/04/2024",
+    "Date_BS": "11/21/2080",
+    "Gold_Price_Per_Tola": "121000"
+  },
+  {
+    "Date_AD": "03/03/2024",
+    "Date_BS": "11/20/2080",
+    "Gold_Price_Per_Tola": "121000"
+  },
+  {
+    "Date_AD": "03/01/2024",
+    "Date_BS": "11/18/2080",
+    "Gold_Price_Per_Tola": "119000"
+  },
+  {
+    "Date_AD": "02/29/2024",
+    "Date_BS": "11/17/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "02/28/2024",
+    "Date_BS": "11/16/2080",
+    "Gold_Price_Per_Tola": "118200"
+  },
+  {
+    "Date_AD": "02/27/2024",
+    "Date_BS": "11/15/2080",
+    "Gold_Price_Per_Tola": "118300"
+  },
+  {
+    "Date_AD": "02/26/2024",
+    "Date_BS": "11/14/2080",
+    "Gold_Price_Per_Tola": "118300"
+  },
+  {
+    "Date_AD": "02/25/2024",
+    "Date_BS": "11/13/2080",
+    "Gold_Price_Per_Tola": "118500"
+  },
+  {
+    "Date_AD": "02/23/2024",
+    "Date_BS": "11/11/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/22/2024",
+    "Date_BS": "11/10/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/21/2024",
+    "Date_BS": "11/09/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "02/20/2024",
+    "Date_BS": "11/08/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/19/2024",
+    "Date_BS": "11/07/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/18/2024",
+    "Date_BS": "11/06/2080",
+    "Gold_Price_Per_Tola": "117600"
+  },
+  {
+    "Date_AD": "02/16/2024",
+    "Date_BS": "11/04/2080",
+    "Gold_Price_Per_Tola": "117100"
+  },
+  {
+    "Date_AD": "02/15/2024",
+    "Date_BS": "11/03/2080",
+    "Gold_Price_Per_Tola": "116500"
+  },
+  {
+    "Date_AD": "02/14/2024",
+    "Date_BS": "11/02/2080",
+    "Gold_Price_Per_Tola": "116500"
+  },
+  {
+    "Date_AD": "02/13/2024",
+    "Date_BS": "11/01/2080",
+    "Gold_Price_Per_Tola": "117700"
+  },
+  {
+    "Date_AD": "02/12/2024",
+    "Date_BS": "10/29/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/11/2024",
+    "Date_BS": "10/28/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/09/2024",
+    "Date_BS": "10/26/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/08/2024",
+    "Date_BS": "10/25/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "02/07/2024",
+    "Date_BS": "10/24/2080",
+    "Gold_Price_Per_Tola": "118600"
+  },
+  {
+    "Date_AD": "02/06/2024",
+    "Date_BS": "10/23/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "02/05/2024",
+    "Date_BS": "10/22/2080",
+    "Gold_Price_Per_Tola": "118500"
+  },
+  {
+    "Date_AD": "02/04/2024",
+    "Date_BS": "10/21/2080",
+    "Gold_Price_Per_Tola": "118900"
+  },
+  {
+    "Date_AD": "02/02/2024",
+    "Date_BS": "10/19/2080",
+    "Gold_Price_Per_Tola": "119500"
+  },
+  {
+    "Date_AD": "02/01/2024",
+    "Date_BS": "10/18/2080",
+    "Gold_Price_Per_Tola": "119200"
+  },
+  {
+    "Date_AD": "01/31/2024",
+    "Date_BS": "10/17/2080",
+    "Gold_Price_Per_Tola": "118700"
+  },
+  {
+    "Date_AD": "01/30/2024",
+    "Date_BS": "10/16/2080",
+    "Gold_Price_Per_Tola": "118600"
+  },
+  {
+    "Date_AD": "01/28/2024",
+    "Date_BS": "10/14/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "01/26/2024",
+    "Date_BS": "10/12/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "01/25/2024",
+    "Date_BS": "10/11/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "01/24/2024",
+    "Date_BS": "10/10/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "01/23/2024",
+    "Date_BS": "10/09/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "01/22/2024",
+    "Date_BS": "10/08/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "01/21/2024",
+    "Date_BS": "10/07/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "01/19/2024",
+    "Date_BS": "10/05/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "01/18/2024",
+    "Date_BS": "10/04/2080",
+    "Gold_Price_Per_Tola": "117500"
+  },
+  {
+    "Date_AD": "01/17/2024",
+    "Date_BS": "10/03/2080",
+    "Gold_Price_Per_Tola": "118200"
+  },
+  {
+    "Date_AD": "01/16/2024",
+    "Date_BS": "10/02/2080",
+    "Gold_Price_Per_Tola": "119400"
+  },
+  {
+    "Date_AD": "01/15/2024",
+    "Date_BS": "10/01/2080",
+    "Gold_Price_Per_Tola": "119500"
+  },
+  {
+    "Date_AD": "01/14/2024",
+    "Date_BS": "09/29/2080",
+    "Gold_Price_Per_Tola": "119200"
+  },
+  {
+    "Date_AD": "01/12/2024",
+    "Date_BS": "09/27/2080",
+    "Gold_Price_Per_Tola": "118600"
+  },
+  {
+    "Date_AD": "01/11/2024",
+    "Date_BS": "09/26/2080",
+    "Gold_Price_Per_Tola": "118300"
+  },
+  {
+    "Date_AD": "01/10/2024",
+    "Date_BS": "09/25/2080",
+    "Gold_Price_Per_Tola": "118500"
+  },
+  {
+    "Date_AD": "01/09/2024",
+    "Date_BS": "09/24/2080",
+    "Gold_Price_Per_Tola": "118600"
+  },
+  {
+    "Date_AD": "01/08/2024",
+    "Date_BS": "09/23/2080",
+    "Gold_Price_Per_Tola": "118800"
+  },
+  {
+    "Date_AD": "01/07/2024",
+    "Date_BS": "09/22/2080",
+    "Gold_Price_Per_Tola": "119500"
+  },
+  {
+    "Date_AD": "01/05/2024",
+    "Date_BS": "09/20/2080",
+    "Gold_Price_Per_Tola": "119500"
+  },
+  {
+    "Date_AD": "01/04/2024",
+    "Date_BS": "09/19/2080",
+    "Gold_Price_Per_Tola": "119500"
+  },
+  {
+    "Date_AD": "01/03/2024",
+    "Date_BS": "09/18/2080",
+    "Gold_Price_Per_Tola": "120800"
+  },
+  {
+    "Date_AD": "01/02/2024",
+    "Date_BS": "09/17/2080",
+    "Gold_Price_Per_Tola": "121000"
+  },
+  {
+    "Date_AD": "01/01/2024",
+    "Date_BS": "09/16/2080",
+    "Gold_Price_Per_Tola": "120500"
+  },
+  {
+    "Date_AD": "Date in A.D",
+    "Date_BS": "Date In B.S",
+    "Gold_Price_Per_Tola": "Gold Rate Per Tola"
+  },
+  {
+    "Date_AD": "12/31/2023",
+    "Date_BS": "09/15/2080",
+    "Gold_Price_Per_Tola": "120500"
+  },
+  {
+    "Date_AD": "12/29/2023",
+    "Date_BS": "09/13/2080",
+    "Gold_Price_Per_Tola": "120700"
+  },
+  {
+    "Date_AD": "12/28/2023",
+    "Date_BS": "09/12/2080",
+    "Gold_Price_Per_Tola": "122000"
+  },
+  {
+    "Date_AD": "12/27/2023",
+    "Date_BS": "09/11/2080",
+    "Gold_Price_Per_Tola": "120700"
+  },
+  {
+    "Date_AD": "12/26/2023",
+    "Date_BS": "09/10/2080",
+    "Gold_Price_Per_Tola": "120500"
+  },
+  {
+    "Date_AD": "12/25/2023",
+    "Date_BS": "09/09/2080",
+    "Gold_Price_Per_Tola": "119900"
+  },
+  {
+    "Date_AD": "12/24/2023",
+    "Date_BS": "09/08/2080",
+    "Gold_Price_Per_Tola": "119900"
+  },
+  {
+    "Date_AD": "12/22/2023",
+    "Date_BS": "09/06/2080",
+    "Gold_Price_Per_Tola": "119800"
+  },
+  {
+    "Date_AD": "12/21/2023",
+    "Date_BS": "09/05/2080",
+    "Gold_Price_Per_Tola": "119000"
+  },
+  {
+    "Date_AD": "12/20/2023",
+    "Date_BS": "09/04/2080",
+    "Gold_Price_Per_Tola": "119000"
+  },
+  {
+    "Date_AD": "12/19/2023",
+    "Date_BS": "09/03/2080",
+    "Gold_Price_Per_Tola": "118000"
+  },
+  {
+    "Date_AD": "12/18/2023",
+    "Date_BS": "09/02/2080",
+    "Gold_Price_Per_Tola": "117800"
+  },
+  {
+    "Date_AD": "12/17/2023",
+    "Date_BS": "09/01/2080",
+    "Gold_Price_Per_Tola": "117800"
+  },
+  {
+    "Date_AD": "12/15/2023",
+    "Date_BS": "08/29/2080",
+    "Gold_Price_Per_Tola": "119100"
+  },
+  {
+    "Date_AD": "12/13/2023",
+    "Date_BS": "08/27/2080",
+    "Gold_Price_Per_Tola": "116000"
+  },
+  {
+    "Date_AD": "12/13/2023",
+    "Date_BS": "08/27/2080",
+    "Gold_Price_Per_Tola": "116000"
+  },
+  {
+    "Date_AD": "12/12/2023",
+    "Date_BS": "08/26/2080",
+    "Gold_Price_Per_Tola": "116300"
+  },
+  {
+    "Date_AD": "12/11/2023",
+    "Date_BS": "08/25/2080",
+    "Gold_Price_Per_Tola": "117000"
+  },
+  {
+    "Date_AD": "12/10/2023",
+    "Date_BS": "08/24/2080",
+    "Gold_Price_Per_Tola": "117500"
+  },
+  {
+    "Date_AD": "12/08/2023",
+    "Date_BS": "08/22/2080",
+    "Gold_Price_Per_Tola": "118800"
+  },
+  {
+    "Date_AD": "12/07/2023",
+    "Date_BS": "08/21/2080",
+    "Gold_Price_Per_Tola": "118600"
+  },
+  {
+    "Date_AD": "12/06/2023",
+    "Date_BS": "08/20/2080",
+    "Gold_Price_Per_Tola": "118400"
+  },
+  {
+    "Date_AD": "12/05/2023",
+    "Date_BS": "08/19/2080",
+    "Gold_Price_Per_Tola": "119200"
+  },
+  {
+    "Date_AD": "12/04/2023",
+    "Date_BS": "08/18/2080",
+    "Gold_Price_Per_Tola": "121600"
+  },
+  {
+    "Date_AD": "12/03/2023",
+    "Date_BS": "08/17/2080",
+    "Gold_Price_Per_Tola": "120800"
+  },
+  {
+    "Date_AD": "12/01/2023",
+    "Date_BS": "08/15/2080",
+    "Gold_Price_Per_Tola": "119000"
+  },
+  {
+    "Date_AD": "11/30/2023",
+    "Date_BS": "08/14/2080",
+    "Gold_Price_Per_Tola": "119300"
+  },
+  {
+    "Date_AD": "11/29/2023",
+    "Date_BS": "08/13/2080",
+    "Gold_Price_Per_Tola": "119300"
+  },
+  {
+    "Date_AD": "11/28/2023",
+    "Date_BS": "08/12/2080",
+    "Gold_Price_Per_Tola": "117700"
+  },
+  {
+    "Date_AD": "11/27/2023",
+    "Date_BS": "08/11/2080",
+    "Gold_Price_Per_Tola": "117400"
+  },
+  {
+    "Date_AD": "11/26/2023",
+    "Date_BS": "08/10/2080",
+    "Gold_Price_Per_Tola": "116900"
+  },
+  {
+    "Date_AD": "11/24/2023",
+    "Date_BS": "08/08/2080",
+    "Gold_Price_Per_Tola": "116300"
+  },
+  {
+    "Date_AD": "11/23/2023",
+    "Date_BS": "08/07/2080",
+    "Gold_Price_Per_Tola": "116500"
+  },
+  {
+    "Date_AD": "11/22/2023",
+    "Date_BS": "08/06/2080",
+    "Gold_Price_Per_Tola": "116500"
+  },
+  {
+    "Date_AD": "11/21/2023",
+    "Date_BS": "08/05/2080",
+    "Gold_Price_Per_Tola": "116200"
+  },
+  {
+    "Date_AD": "11/20/2023",
+    "Date_BS": "08/04/2080",
+    "Gold_Price_Per_Tola": "115700"
+  },
+  {
+    "Date_AD": "11/19/2023",
+    "Date_BS": "08/03/2080",
+    "Gold_Price_Per_Tola": "115500"
+  },
+  {
+    "Date_AD": "11/17/2023",
+    "Date_BS": "08/01/2080",
+    "Gold_Price_Per_Tola": "115500"
+  },
+  {
+    "Date_AD": "11/10/2023",
+    "Date_BS": "07/24/2080",
+    "Gold_Price_Per_Tola": "114700"
+  },
+  {
+    "Date_AD": "11/09/2023",
+    "Date_BS": "07/23/2080",
+    "Gold_Price_Per_Tola": "113700"
+  },
+  {
+    "Date_AD": "11/08/2023",
+    "Date_BS": "07/22/2080",
+    "Gold_Price_Per_Tola": "114700"
+  },
+  {
+    "Date_AD": "11/07/2023",
+    "Date_BS": "07/21/2080",
+    "Gold_Price_Per_Tola": "115000"
+  },
+  {
+    "Date_AD": "11/06/2023",
+    "Date_BS": "07/20/2080",
+    "Gold_Price_Per_Tola": "115400"
+  },
+  {
+    "Date_AD": "11/05/2023",
+    "Date_BS": "07/19/2080",
+    "Gold_Price_Per_Tola": "115900"
+  },
+  {
+    "Date_AD": "11/03/2023",
+    "Date_BS": "07/17/2080",
+    "Gold_Price_Per_Tola": "115900"
+  },
+  {
+    "Date_AD": "11/02/2023",
+    "Date_BS": "07/16/2080",
+    "Gold_Price_Per_Tola": "115700"
+  },
+  {
+    "Date_AD": "11/01/2023",
+    "Date_BS": "07/15/2080",
+    "Gold_Price_Per_Tola": "115000"
+  },
+  {
+    "Date_AD": "10/31/2023",
+    "Date_BS": "07/14/2080",
+    "Gold_Price_Per_Tola": "116000"
+  },
+  {
+    "Date_AD": "10/30/2023",
+    "Date_BS": "07/13/2080",
+    "Gold_Price_Per_Tola": "116500"
+  },
+  {
+    "Date_AD": "10/29/2023",
+    "Date_BS": "07/12/2080",
+    "Gold_Price_Per_Tola": "117000"
+  },
+  {
+    "Date_AD": "10/20/2023",
+    "Date_BS": "07/03/2080",
+    "Gold_Price_Per_Tola": "115500"
+  },
+  {
+    "Date_AD": "10/19/2023",
+    "Date_BS": "07/02/2080",
+    "Gold_Price_Per_Tola": "113700"
+  },
+  {
+    "Date_AD": "10/18/2023",
+    "Date_BS": "07/01/2080",
+    "Gold_Price_Per_Tola": "113200"
+  },
+  {
+    "Date_AD": "10/17/2023",
+    "Date_BS": "06/30/2080",
+    "Gold_Price_Per_Tola": "111900"
+  },
+  {
+    "Date_AD": "10/16/2023",
+    "Date_BS": "06/29/2080",
+    "Gold_Price_Per_Tola": "112300"
+  },
+  {
+    "Date_AD": "10/15/2023",
+    "Date_BS": "06/28/2080",
+    "Gold_Price_Per_Tola": "113000"
+  },
+  {
+    "Date_AD": "10/14/2023",
+    "Date_BS": "06/27/2080",
+    "Gold_Price_Per_Tola": "113000"
+  },
+  {
+    "Date_AD": "10/13/2023",
+    "Date_BS": "06/26/2080",
+    "Gold_Price_Per_Tola": "110100"
+  },
+  {
+    "Date_AD": "10/12/2023",
+    "Date_BS": "06/25/2080",
+    "Gold_Price_Per_Tola": "109500"
+  },
+  {
+    "Date_AD": "10/11/2023",
+    "Date_BS": "06/24/2080",
+    "Gold_Price_Per_Tola": "108800"
+  },
+  {
+    "Date_AD": "10/10/2023",
+    "Date_BS": "06/23/2080",
+    "Gold_Price_Per_Tola": "108900"
+  },
+  {
+    "Date_AD": "10/09/2023",
+    "Date_BS": "06/22/2080",
+    "Gold_Price_Per_Tola": "108600"
+  },
+  {
+    "Date_AD": "10/08/2023",
+    "Date_BS": "06/21/2080",
+    "Gold_Price_Per_Tola": "107600"
+  },
+  {
+    "Date_AD": "10/06/2023",
+    "Date_BS": "06/19/2080",
+    "Gold_Price_Per_Tola": "107300"
+  },
+  {
+    "Date_AD": "10/05/2023",
+    "Date_BS": "06/18/2080",
+    "Gold_Price_Per_Tola": "107300"
+  },
+  {
+    "Date_AD": "10/04/2023",
+    "Date_BS": "06/17/2080",
+    "Gold_Price_Per_Tola": "106900"
+  },
+  {
+    "Date_AD": "10/03/2023",
+    "Date_BS": "06/16/2080",
+    "Gold_Price_Per_Tola": "106600"
+  },
+  {
+    "Date_AD": "10/02/2023",
+    "Date_BS": "06/15/2080",
+    "Gold_Price_Per_Tola": "107900"
+  },
+  {
+    "Date_AD": "10/01/2023",
+    "Date_BS": "06/14/2080",
+    "Gold_Price_Per_Tola": "108000"
+  },
+  {
+    "Date_AD": "09/29/2023",
+    "Date_BS": "06/12/2080",
+    "Gold_Price_Per_Tola": "108800"
+  },
+  {
+    "Date_AD": "09/28/2023",
+    "Date_BS": "06/11/2080",
+    "Gold_Price_Per_Tola": "109600"
+  },
+  {
+    "Date_AD": "09/27/2023",
+    "Date_BS": "06/10/2080",
+    "Gold_Price_Per_Tola": "111000"
+  },
+  {
+    "Date_AD": "09/26/2023",
+    "Date_BS": "06/09/2080",
+    "Gold_Price_Per_Tola": "111800"
+  },
+  {
+    "Date_AD": "09/25/2023",
+    "Date_BS": "06/08/2080",
+    "Gold_Price_Per_Tola": "112200"
+  },
+  {
+    "Date_AD": "09/24/2023",
+    "Date_BS": "06/07/2080",
+    "Gold_Price_Per_Tola": "112200"
+  },
+  {
+    "Date_AD": "09/22/2023",
+    "Date_BS": "06/05/2080",
+    "Gold_Price_Per_Tola": "112100"
+  },
+  {
+    "Date_AD": "09/21/2023",
+    "Date_BS": "06/04/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "09/20/2023",
+    "Date_BS": "06/03/2080",
+    "Gold_Price_Per_Tola": "112800"
+  },
+  {
+    "Date_AD": "09/19/2023",
+    "Date_BS": "06/02/2080",
+    "Gold_Price_Per_Tola": "113000"
+  },
+  {
+    "Date_AD": "09/18/2023",
+    "Date_BS": "06/01/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "09/17/2023",
+    "Date_BS": "05/31/2080",
+    "Gold_Price_Per_Tola": "112300"
+  },
+  {
+    "Date_AD": "09/15/2023",
+    "Date_BS": "05/29/2080",
+    "Gold_Price_Per_Tola": "111800"
+  },
+  {
+    "Date_AD": "09/14/2023",
+    "Date_BS": "05/28/2080",
+    "Gold_Price_Per_Tola": "111200"
+  },
+  {
+    "Date_AD": "09/13/2023",
+    "Date_BS": "05/27/2080",
+    "Gold_Price_Per_Tola": "111200"
+  },
+  {
+    "Date_AD": "09/12/2023",
+    "Date_BS": "05/26/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "09/11/2023",
+    "Date_BS": "05/25/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "09/10/2023",
+    "Date_BS": "05/24/2080",
+    "Gold_Price_Per_Tola": "111900"
+  },
+  {
+    "Date_AD": "09/08/2023",
+    "Date_BS": "05/22/2080",
+    "Gold_Price_Per_Tola": "112300"
+  },
+  {
+    "Date_AD": "09/07/2023",
+    "Date_BS": "05/21/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "09/06/2023",
+    "Date_BS": "05/20/2080",
+    "Gold_Price_Per_Tola": "112400"
+  },
+  {
+    "Date_AD": "09/05/2023",
+    "Date_BS": "05/19/2080",
+    "Gold_Price_Per_Tola": "112700"
+  },
+  {
+    "Date_AD": "09/04/2023",
+    "Date_BS": "05/18/2080",
+    "Gold_Price_Per_Tola": "113000"
+  },
+  {
+    "Date_AD": "09/03/2023",
+    "Date_BS": "05/17/2080",
+    "Gold_Price_Per_Tola": "112600"
+  },
+  {
+    "Date_AD": "09/01/2023",
+    "Date_BS": "05/15/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "08/31/2023",
+    "Date_BS": "05/14/2080",
+    "Gold_Price_Per_Tola": "112800"
+  },
+  {
+    "Date_AD": "08/30/2023",
+    "Date_BS": "05/13/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "08/29/2023",
+    "Date_BS": "05/12/2080",
+    "Gold_Price_Per_Tola": "111700"
+  },
+  {
+    "Date_AD": "08/28/2023",
+    "Date_BS": "05/11/2080",
+    "Gold_Price_Per_Tola": "111100"
+  },
+  {
+    "Date_AD": "08/27/2023",
+    "Date_BS": "05/10/2080",
+    "Gold_Price_Per_Tola": "111100"
+  },
+  {
+    "Date_AD": "08/25/2023",
+    "Date_BS": "05/08/2080",
+    "Gold_Price_Per_Tola": "111100"
+  },
+  {
+    "Date_AD": "08/24/2023",
+    "Date_BS": "05/07/2080",
+    "Gold_Price_Per_Tola": "111100"
+  },
+  {
+    "Date_AD": "08/23/2023",
+    "Date_BS": "05/06/2080",
+    "Gold_Price_Per_Tola": "110600"
+  },
+  {
+    "Date_AD": "08/22/2023",
+    "Date_BS": "05/05/2080",
+    "Gold_Price_Per_Tola": "110500"
+  },
+  {
+    "Date_AD": "08/21/2023",
+    "Date_BS": "05/04/2080",
+    "Gold_Price_Per_Tola": "110300"
+  },
+  {
+    "Date_AD": "08/20/2023",
+    "Date_BS": "05/03/2080",
+    "Gold_Price_Per_Tola": "110300"
+  },
+  {
+    "Date_AD": "08/18/2023",
+    "Date_BS": "05/01/2080",
+    "Gold_Price_Per_Tola": "110400"
+  },
+  {
+    "Date_AD": "08/17/2023",
+    "Date_BS": "04/32/2080",
+    "Gold_Price_Per_Tola": "110400"
+  },
+  {
+    "Date_AD": "08/16/2023",
+    "Date_BS": "04/31/2080",
+    "Gold_Price_Per_Tola": "111200"
+  },
+  {
+    "Date_AD": "08/15/2023",
+    "Date_BS": "04/30/2080",
+    "Gold_Price_Per_Tola": "111300"
+  },
+  {
+    "Date_AD": "08/14/2023",
+    "Date_BS": "04/29/2080",
+    "Gold_Price_Per_Tola": "111300"
+  },
+  {
+    "Date_AD": "08/13/2023",
+    "Date_BS": "04/28/2080",
+    "Gold_Price_Per_Tola": "111100"
+  },
+  {
+    "Date_AD": "08/11/2023",
+    "Date_BS": "04/26/2080",
+    "Gold_Price_Per_Tola": "111100"
+  },
+  {
+    "Date_AD": "08/10/2023",
+    "Date_BS": "04/25/2080",
+    "Gold_Price_Per_Tola": "111300"
+  },
+  {
+    "Date_AD": "08/09/2023",
+    "Date_BS": "04/24/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "08/08/2023",
+    "Date_BS": "04/23/2080",
+    "Gold_Price_Per_Tola": "112100"
+  },
+  {
+    "Date_AD": "08/07/2023",
+    "Date_BS": "04/22/2080",
+    "Gold_Price_Per_Tola": "112400"
+  },
+  {
+    "Date_AD": "08/06/2023",
+    "Date_BS": "04/21/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "08/04/2023",
+    "Date_BS": "04/19/2080",
+    "Gold_Price_Per_Tola": "112200"
+  },
+  {
+    "Date_AD": "08/03/2023",
+    "Date_BS": "04/18/2080",
+    "Gold_Price_Per_Tola": "112200"
+  },
+  {
+    "Date_AD": "08/02/2023",
+    "Date_BS": "04/17/2080",
+    "Gold_Price_Per_Tola": "112400"
+  },
+  {
+    "Date_AD": "08/01/2023",
+    "Date_BS": "04/16/2080",
+    "Gold_Price_Per_Tola": "113000"
+  },
+  {
+    "Date_AD": "07/31/2023",
+    "Date_BS": "04/15/2080",
+    "Gold_Price_Per_Tola": "112600"
+  },
+  {
+    "Date_AD": "07/30/2023",
+    "Date_BS": "04/14/2080",
+    "Gold_Price_Per_Tola": "112900"
+  },
+  {
+    "Date_AD": "07/28/2023",
+    "Date_BS": "04/12/2080",
+    "Gold_Price_Per_Tola": "112600"
+  },
+  {
+    "Date_AD": "07/27/2023",
+    "Date_BS": "04/11/2080",
+    "Gold_Price_Per_Tola": "113500"
+  },
+  {
+    "Date_AD": "07/26/2023",
+    "Date_BS": "04/10/2080",
+    "Gold_Price_Per_Tola": "112700"
+  },
+  {
+    "Date_AD": "07/25/2023",
+    "Date_BS": "04/09/2080",
+    "Gold_Price_Per_Tola": "112200"
+  },
+  {
+    "Date_AD": "07/24/2023",
+    "Date_BS": "04/08/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "07/23/2023",
+    "Date_BS": "04/07/2080",
+    "Gold_Price_Per_Tola": "112300"
+  },
+  {
+    "Date_AD": "07/21/2023",
+    "Date_BS": "04/05/2080",
+    "Gold_Price_Per_Tola": "112800"
+  },
+  {
+    "Date_AD": "07/20/2023",
+    "Date_BS": "04/04/2080",
+    "Gold_Price_Per_Tola": "113600"
+  },
+  {
+    "Date_AD": "07/19/2023",
+    "Date_BS": "04/03/2080",
+    "Gold_Price_Per_Tola": "113100"
+  },
+  {
+    "Date_AD": "07/18/2023",
+    "Date_BS": "04/02/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "07/17/2023",
+    "Date_BS": "04/01/2080",
+    "Gold_Price_Per_Tola": "112200"
+  },
+  {
+    "Date_AD": "07/16/2023",
+    "Date_BS": "03/31/2080",
+    "Gold_Price_Per_Tola": "112200"
+  },
+  {
+    "Date_AD": "07/14/2023",
+    "Date_BS": "03/29/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "07/13/2023",
+    "Date_BS": "03/28/2080",
+    "Gold_Price_Per_Tola": "112400"
+  },
+  {
+    "Date_AD": "07/12/2023",
+    "Date_BS": "03/27/2080",
+    "Gold_Price_Per_Tola": "111600"
+  },
+  {
+    "Date_AD": "07/11/2023",
+    "Date_BS": "03/26/2080",
+    "Gold_Price_Per_Tola": "111300"
+  },
+  {
+    "Date_AD": "07/10/2023",
+    "Date_BS": "03/25/2080",
+    "Gold_Price_Per_Tola": "111300"
+  },
+  {
+    "Date_AD": "07/09/2023",
+    "Date_BS": "03/24/2080",
+    "Gold_Price_Per_Tola": "111300"
+  },
+  {
+    "Date_AD": "07/07/2023",
+    "Date_BS": "03/22/2080",
+    "Gold_Price_Per_Tola": "110600"
+  },
+  {
+    "Date_AD": "07/06/2023",
+    "Date_BS": "03/21/2080",
+    "Gold_Price_Per_Tola": "110700"
+  },
+  {
+    "Date_AD": "07/05/2023",
+    "Date_BS": "03/20/2080",
+    "Gold_Price_Per_Tola": "110600"
+  },
+  {
+    "Date_AD": "07/04/2023",
+    "Date_BS": "03/19/2080",
+    "Gold_Price_Per_Tola": "110400"
+  },
+  {
+    "Date_AD": "07/03/2023",
+    "Date_BS": "03/18/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "07/02/2023",
+    "Date_BS": "03/17/2080",
+    "Gold_Price_Per_Tola": "110100"
+  },
+  {
+    "Date_AD": "06/30/2023",
+    "Date_BS": "03/15/2080",
+    "Gold_Price_Per_Tola": "109600"
+  },
+  {
+    "Date_AD": "06/29/2023",
+    "Date_BS": "03/14/2080",
+    "Gold_Price_Per_Tola": "109400"
+  },
+  {
+    "Date_AD": "06/28/2023",
+    "Date_BS": "03/13/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "06/27/2023",
+    "Date_BS": "03/12/2080",
+    "Gold_Price_Per_Tola": "110600"
+  },
+  {
+    "Date_AD": "06/26/2023",
+    "Date_BS": "03/11/2080",
+    "Gold_Price_Per_Tola": "110400"
+  },
+  {
+    "Date_AD": "06/25/2023",
+    "Date_BS": "03/10/2080",
+    "Gold_Price_Per_Tola": "110200"
+  },
+  {
+    "Date_AD": "06/23/2023",
+    "Date_BS": "03/08/2080",
+    "Gold_Price_Per_Tola": "109800"
+  },
+  {
+    "Date_AD": "06/22/2023",
+    "Date_BS": "03/07/2080",
+    "Gold_Price_Per_Tola": "110500"
+  },
+  {
+    "Date_AD": "06/21/2023",
+    "Date_BS": "03/06/2080",
+    "Gold_Price_Per_Tola": "111000"
+  },
+  {
+    "Date_AD": "06/20/2023",
+    "Date_BS": "03/05/2080",
+    "Gold_Price_Per_Tola": "111800"
+  },
+  {
+    "Date_AD": "06/19/2023",
+    "Date_BS": "03/04/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "06/18/2023",
+    "Date_BS": "03/03/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "06/16/2023",
+    "Date_BS": "03/01/2080",
+    "Gold_Price_Per_Tola": "111800"
+  },
+  {
+    "Date_AD": "06/15/2023",
+    "Date_BS": "02/32/2080",
+    "Gold_Price_Per_Tola": "111000"
+  },
+  {
+    "Date_AD": "06/14/2023",
+    "Date_BS": "02/31/2080",
+    "Gold_Price_Per_Tola": "111800"
+  },
+  {
+    "Date_AD": "06/13/2023",
+    "Date_BS": "02/30/2080",
+    "Gold_Price_Per_Tola": "112700"
+  },
+  {
+    "Date_AD": "06/12/2023",
+    "Date_BS": "02/29/2080",
+    "Gold_Price_Per_Tola": "112400"
+  },
+  {
+    "Date_AD": "06/11/2023",
+    "Date_BS": "02/28/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "06/09/2023",
+    "Date_BS": "02/26/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "06/08/2023",
+    "Date_BS": "02/25/2080",
+    "Gold_Price_Per_Tola": "111700"
+  },
+  {
+    "Date_AD": "06/07/2023",
+    "Date_BS": "02/24/2080",
+    "Gold_Price_Per_Tola": "112700"
+  },
+  {
+    "Date_AD": "06/06/2023",
+    "Date_BS": "02/23/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "06/05/2023",
+    "Date_BS": "02/22/2080",
+    "Gold_Price_Per_Tola": "111600"
+  },
+  {
+    "Date_AD": "06/04/2023",
+    "Date_BS": "02/21/2080",
+    "Gold_Price_Per_Tola": "111600"
+  },
+  {
+    "Date_AD": "06/02/2023",
+    "Date_BS": "02/19/2080",
+    "Gold_Price_Per_Tola": "113300"
+  },
+  {
+    "Date_AD": "06/01/2023",
+    "Date_BS": "02/18/2080",
+    "Gold_Price_Per_Tola": "112500"
+  },
+  {
+    "Date_AD": "05/31/2023",
+    "Date_BS": "02/17/2080",
+    "Gold_Price_Per_Tola": "112000"
+  },
+  {
+    "Date_AD": "05/30/2023",
+    "Date_BS": "02/16/2080",
+    "Gold_Price_Per_Tola": "110500"
+  },
+  {
+    "Date_AD": "05/29/2023",
+    "Date_BS": "02/15/2080",
+    "Gold_Price_Per_Tola": "108100"
+  },
+  {
+    "Date_AD": "05/28/2023",
+    "Date_BS": "02/14/2080",
+    "Gold_Price_Per_Tola": "108100"
+  },
+  {
+    "Date_AD": "05/26/2023",
+    "Date_BS": "02/12/2080",
+    "Gold_Price_Per_Tola": "108300"
+  },
+  {
+    "Date_AD": "05/25/2023",
+    "Date_BS": "02/11/2080",
+    "Gold_Price_Per_Tola": "108800"
+  },
+  {
+    "Date_AD": "05/24/2023",
+    "Date_BS": "02/10/2080",
+    "Gold_Price_Per_Tola": "109800"
+  },
+  {
+    "Date_AD": "05/23/2023",
+    "Date_BS": "02/09/2080",
+    "Gold_Price_Per_Tola": "109200"
+  },
+  {
+    "Date_AD": "05/22/2023",
+    "Date_BS": "02/08/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "05/21/2023",
+    "Date_BS": "02/07/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "05/19/2023",
+    "Date_BS": "02/05/2080",
+    "Gold_Price_Per_Tola": "109200"
+  },
+  {
+    "Date_AD": "05/18/2023",
+    "Date_BS": "02/04/2080",
+    "Gold_Price_Per_Tola": "109700"
+  },
+  {
+    "Date_AD": "05/17/2023",
+    "Date_BS": "02/03/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "05/16/2023",
+    "Date_BS": "02/02/2080",
+    "Gold_Price_Per_Tola": "111100"
+  },
+  {
+    "Date_AD": "05/15/2023",
+    "Date_BS": "02/01/2080",
+    "Gold_Price_Per_Tola": "111000"
+  },
+  {
+    "Date_AD": "05/14/2023",
+    "Date_BS": "01/31/2080",
+    "Gold_Price_Per_Tola": "110800"
+  },
+  {
+    "Date_AD": "05/12/2023",
+    "Date_BS": "01/29/2080",
+    "Gold_Price_Per_Tola": "110800"
+  },
+  {
+    "Date_AD": "05/10/2023",
+    "Date_BS": "01/27/2080",
+    "Gold_Price_Per_Tola": "111600"
+  },
+  {
+    "Date_AD": "05/09/2023",
+    "Date_BS": "01/26/2080",
+    "Gold_Price_Per_Tola": "111200"
+  },
+  {
+    "Date_AD": "05/08/2023",
+    "Date_BS": "01/25/2080",
+    "Gold_Price_Per_Tola": "110900"
+  },
+  {
+    "Date_AD": "05/07/2023",
+    "Date_BS": "01/24/2080",
+    "Gold_Price_Per_Tola": "110600"
+  },
+  {
+    "Date_AD": "05/04/2023",
+    "Date_BS": "01/21/2080",
+    "Gold_Price_Per_Tola": "111800"
+  },
+  {
+    "Date_AD": "05/03/2023",
+    "Date_BS": "01/20/2080",
+    "Gold_Price_Per_Tola": "110600"
+  },
+  {
+    "Date_AD": "05/02/2023",
+    "Date_BS": "01/19/2080",
+    "Gold_Price_Per_Tola": "108800"
+  },
+  {
+    "Date_AD": "05/01/2023",
+    "Date_BS": "01/18/2080",
+    "Gold_Price_Per_Tola": "109000"
+  },
+  {
+    "Date_AD": "04/30/2023",
+    "Date_BS": "01/17/2080",
+    "Gold_Price_Per_Tola": "109200"
+  },
+  {
+    "Date_AD": "04/28/2023",
+    "Date_BS": "01/15/2080",
+    "Gold_Price_Per_Tola": "109100"
+  },
+  {
+    "Date_AD": "04/27/2023",
+    "Date_BS": "01/14/2080",
+    "Gold_Price_Per_Tola": "109600"
+  },
+  {
+    "Date_AD": "04/26/2023",
+    "Date_BS": "01/13/2080",
+    "Gold_Price_Per_Tola": "109700"
+  },
+  {
+    "Date_AD": "04/25/2023",
+    "Date_BS": "01/12/2080",
+    "Gold_Price_Per_Tola": "109500"
+  },
+  {
+    "Date_AD": "04/24/2023",
+    "Date_BS": "01/11/2080",
+    "Gold_Price_Per_Tola": "109100"
+  },
+  {
+    "Date_AD": "04/23/2023",
+    "Date_BS": "01/10/2080",
+    "Gold_Price_Per_Tola": "109300"
+  },
+  {
+    "Date_AD": "04/21/2023",
+    "Date_BS": "01/08/2080",
+    "Gold_Price_Per_Tola": "110200"
+  },
+  {
+    "Date_AD": "04/20/2023",
+    "Date_BS": "01/07/2080",
+    "Gold_Price_Per_Tola": "109800"
+  },
+  {
+    "Date_AD": "04/19/2023",
+    "Date_BS": "01/06/2080",
+    "Gold_Price_Per_Tola": "110300"
+  },
+  {
+    "Date_AD": "04/18/2023",
+    "Date_BS": "01/05/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "04/17/2023",
+    "Date_BS": "01/04/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "04/16/2023",
+    "Date_BS": "01/03/2080",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "04/13/2023",
+    "Date_BS": "12/30/2079",
+    "Gold_Price_Per_Tola": "110800"
+  },
+  {
+    "Date_AD": "04/12/2023",
+    "Date_BS": "12/29/2079",
+    "Gold_Price_Per_Tola": "110800"
+  },
+  {
+    "Date_AD": "04/11/2023",
+    "Date_BS": "12/28/2079",
+    "Gold_Price_Per_Tola": "109800"
+  },
+  {
+    "Date_AD": "04/10/2023",
+    "Date_BS": "12/27/2079",
+    "Gold_Price_Per_Tola": "109300"
+  },
+  {
+    "Date_AD": "04/09/2023",
+    "Date_BS": "12/26/2079",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "04/07/2023",
+    "Date_BS": "12/24/2079",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "04/06/2023",
+    "Date_BS": "12/23/2079",
+    "Gold_Price_Per_Tola": "110200"
+  },
+  {
+    "Date_AD": "04/05/2023",
+    "Date_BS": "12/22/2079",
+    "Gold_Price_Per_Tola": "111000"
+  },
+  {
+    "Date_AD": "04/04/2023",
+    "Date_BS": "12/21/2079",
+    "Gold_Price_Per_Tola": "109000"
+  },
+  {
+    "Date_AD": "04/03/2023",
+    "Date_BS": "12/20/2079",
+    "Gold_Price_Per_Tola": "108000"
+  },
+  {
+    "Date_AD": "04/02/2023",
+    "Date_BS": "12/19/2079",
+    "Gold_Price_Per_Tola": "108597"
+  },
+  {
+    "Date_AD": "03/31/2023",
+    "Date_BS": "12/17/2079",
+    "Gold_Price_Per_Tola": "109198"
+  },
+  {
+    "Date_AD": "03/30/2023",
+    "Date_BS": "12/16/2079",
+    "Gold_Price_Per_Tola": "108200"
+  },
+  {
+    "Date_AD": "03/29/2023",
+    "Date_BS": "12/15/2079",
+    "Gold_Price_Per_Tola": "108498"
+  },
+  {
+    "Date_AD": "03/28/2023",
+    "Date_BS": "12/14/2079",
+    "Gold_Price_Per_Tola": "108000"
+  },
+  {
+    "Date_AD": "03/27/2023",
+    "Date_BS": "12/13/2079",
+    "Gold_Price_Per_Tola": "109000"
+  },
+  {
+    "Date_AD": "03/26/2023",
+    "Date_BS": "12/12/2079",
+    "Gold_Price_Per_Tola": "109198"
+  },
+  {
+    "Date_AD": "03/24/2023",
+    "Date_BS": "12/10/2079",
+    "Gold_Price_Per_Tola": "109800"
+  },
+  {
+    "Date_AD": "03/23/2023",
+    "Date_BS": "12/09/2079",
+    "Gold_Price_Per_Tola": "109000"
+  },
+  {
+    "Date_AD": "03/22/2023",
+    "Date_BS": "12/08/2079",
+    "Gold_Price_Per_Tola": "107798"
+  },
+  {
+    "Date_AD": "03/21/2023",
+    "Date_BS": "12/07/2079",
+    "Gold_Price_Per_Tola": "109799"
+  },
+  {
+    "Date_AD": "03/20/2023",
+    "Date_BS": "12/06/2079",
+    "Gold_Price_Per_Tola": "109300"
+  },
+  {
+    "Date_AD": "03/19/2023",
+    "Date_BS": "12/05/2079",
+    "Gold_Price_Per_Tola": "110000"
+  },
+  {
+    "Date_AD": "03/17/2023",
+    "Date_BS": "12/03/2079",
+    "Gold_Price_Per_Tola": "107098"
+  },
+  {
+    "Date_AD": "03/16/2023",
+    "Date_BS": "12/02/2079",
+    "Gold_Price_Per_Tola": "106702"
+  },
+  {
+    "Date_AD": "03/15/2023",
+    "Date_BS": "12/01/2079",
+    "Gold_Price_Per_Tola": "105700"
+  },
+  {
+    "Date_AD": "03/14/2023",
+    "Date_BS": "11/30/2079",
+    "Gold_Price_Per_Tola": "105700"
+  },
+  {
+    "Date_AD": "03/13/2023",
+    "Date_BS": "11/29/2079",
+    "Gold_Price_Per_Tola": "104101"
+  },
+  {
+    "Date_AD": "03/12/2023",
+    "Date_BS": "11/28/2079",
+    "Gold_Price_Per_Tola": "103500"
+  },
+  {
+    "Date_AD": "03/10/2023",
+    "Date_BS": "11/26/2079",
+    "Gold_Price_Per_Tola": "101800"
+  },
+  {
+    "Date_AD": "03/09/2023",
+    "Date_BS": "11/25/2079",
+    "Gold_Price_Per_Tola": "100998"
+  },
+  {
+    "Date_AD": "03/08/2023",
+    "Date_BS": "11/24/2079",
+    "Gold_Price_Per_Tola": "101500"
+  },
+  {
+    "Date_AD": "03/07/2023",
+    "Date_BS": "11/23/2079",
+    "Gold_Price_Per_Tola": "102500"
+  },
+  {
+    "Date_AD": "03/05/2023",
+    "Date_BS": "11/21/2079",
+    "Gold_Price_Per_Tola": "102800"
+  },
+  {
+    "Date_AD": "03/03/2023",
+    "Date_BS": "11/19/2079",
+    "Gold_Price_Per_Tola": "102500"
+  },
+  {
+    "Date_AD": "03/01/2023",
+    "Date_BS": "11/17/2079",
+    "Gold_Price_Per_Tola": "102300"
+  },
+  {
+    "Date_AD": "02/28/2023",
+    "Date_BS": "11/16/2079",
+    "Gold_Price_Per_Tola": "101800"
+  },
+  {
+    "Date_AD": "02/27/2023",
+    "Date_BS": "11/15/2079",
+    "Gold_Price_Per_Tola": "101800"
+  },
+  {
+    "Date_AD": "02/26/2023",
+    "Date_BS": "11/14/2079",
+    "Gold_Price_Per_Tola": "102000"
+  },
+  {
+    "Date_AD": "02/24/2023",
+    "Date_BS": "11/12/2079",
+    "Gold_Price_Per_Tola": "102400"
+  },
+  {
+    "Date_AD": "02/23/2023",
+    "Date_BS": "11/11/2079",
+    "Gold_Price_Per_Tola": "102500"
+  },
+  {
+    "Date_AD": "02/22/2023",
+    "Date_BS": "11/10/2079",
+    "Gold_Price_Per_Tola": "103000"
+  },
+  {
+    "Date_AD": "02/21/2023",
+    "Date_BS": "11/09/2079",
+    "Gold_Price_Per_Tola": "103000"
+  },
+  {
+    "Date_AD": "02/20/2023",
+    "Date_BS": "11/08/2079",
+    "Gold_Price_Per_Tola": "103200"
+  },
+  {
+    "Date_AD": "02/19/2023",
+    "Date_BS": "11/07/2079",
+    "Gold_Price_Per_Tola": "103200"
+  },
+  {
+    "Date_AD": "02/17/2023",
+    "Date_BS": "11/05/2079",
+    "Gold_Price_Per_Tola": "102500"
+  },
+  {
+    "Date_AD": "02/16/2023",
+    "Date_BS": "11/04/2079",
+    "Gold_Price_Per_Tola": "103000"
+  },
+  {
+    "Date_AD": "02/15/2023",
+    "Date_BS": "11/03/2079",
+    "Gold_Price_Per_Tola": "103600"
+  },
+  {
+    "Date_AD": "02/14/2023",
+    "Date_BS": "11/02/2079",
+    "Gold_Price_Per_Tola": "103800"
+  },
+  {
+    "Date_AD": "02/13/2023",
+    "Date_BS": "11/01/2079",
+    "Gold_Price_Per_Tola": "104000"
+  },
+  {
+    "Date_AD": "02/10/2023",
+    "Date_BS": "10/27/2079",
+    "Gold_Price_Per_Tola": "103600"
+  },
+  {
+    "Date_AD": "02/09/2023",
+    "Date_BS": "10/26/2079",
+    "Gold_Price_Per_Tola": "104900"
+  },
+  {
+    "Date_AD": "02/08/2023",
+    "Date_BS": "10/25/2079",
+    "Gold_Price_Per_Tola": "104800"
+  },
+  {
+    "Date_AD": "02/07/2023",
+    "Date_BS": "10/24/2079",
+    "Gold_Price_Per_Tola": "104600"
+  },
+  {
+    "Date_AD": "02/06/2023",
+    "Date_BS": "10/23/2079",
+    "Gold_Price_Per_Tola": "104600"
+  },
+  {
+    "Date_AD": "02/05/2023",
+    "Date_BS": "10/22/2079",
+    "Gold_Price_Per_Tola": "104100"
+  },
+  {
+    "Date_AD": "02/03/2023",
+    "Date_BS": "10/20/2079",
+    "Gold_Price_Per_Tola": "106100"
+  },
+  {
+    "Date_AD": "02/02/2023",
+    "Date_BS": "10/19/2079",
+    "Gold_Price_Per_Tola": "107500"
+  },
+  {
+    "Date_AD": "02/01/2023",
+    "Date_BS": "10/18/2079",
+    "Gold_Price_Per_Tola": "106300"
+  },
+  {
+    "Date_AD": "01/31/2023",
+    "Date_BS": "10/17/2079",
+    "Gold_Price_Per_Tola": "105800"
+  },
+  {
+    "Date_AD": "01/30/2023",
+    "Date_BS": "10/16/2079",
+    "Gold_Price_Per_Tola": "106300"
+  },
+  {
+    "Date_AD": "01/29/2023",
+    "Date_BS": "10/15/2079",
+    "Gold_Price_Per_Tola": "106000"
+  },
+  {
+    "Date_AD": "01/27/2023",
+    "Date_BS": "10/13/2079",
+    "Gold_Price_Per_Tola": "105800"
+  },
+  {
+    "Date_AD": "01/26/2023",
+    "Date_BS": "10/12/2079",
+    "Gold_Price_Per_Tola": "106900"
+  },
+  {
+    "Date_AD": "01/25/2023",
+    "Date_BS": "10/11/2079",
+    "Gold_Price_Per_Tola": "106200"
+  },
+  {
+    "Date_AD": "01/24/2023",
+    "Date_BS": "10/10/2079",
+    "Gold_Price_Per_Tola": "106300"
+  },
+  {
+    "Date_AD": "01/23/2023",
+    "Date_BS": "10/09/2079",
+    "Gold_Price_Per_Tola": "105300"
+  },
+  {
+    "Date_AD": "01/22/2023",
+    "Date_BS": "10/08/2079",
+    "Gold_Price_Per_Tola": "105000"
+  },
+  {
+    "Date_AD": "01/20/2023",
+    "Date_BS": "10/06/2079",
+    "Gold_Price_Per_Tola": "105200"
+  },
+  {
+    "Date_AD": "01/19/2023",
+    "Date_BS": "10/05/2079",
+    "Gold_Price_Per_Tola": "104500"
+  },
+  {
+    "Date_AD": "01/18/2023",
+    "Date_BS": "10/04/2079",
+    "Gold_Price_Per_Tola": "104500"
+  },
+  {
+    "Date_AD": "01/17/2023",
+    "Date_BS": "10/03/2079",
+    "Gold_Price_Per_Tola": "105100"
+  },
+  {
+    "Date_AD": "01/16/2023",
+    "Date_BS": "10/02/2079",
+    "Gold_Price_Per_Tola": "105200"
+  },
+  {
+    "Date_AD": "01/15/2023",
+    "Date_BS": "10/01/2079",
+    "Gold_Price_Per_Tola": "105000"
+  },
+  {
+    "Date_AD": "01/13/2023",
+    "Date_BS": "09/29/2079",
+    "Gold_Price_Per_Tola": "103900"
+  },
+  {
+    "Date_AD": "01/12/2023",
+    "Date_BS": "09/28/2079",
+    "Gold_Price_Per_Tola": "103400"
+  },
+  {
+    "Date_AD": "01/11/2023",
+    "Date_BS": "09/27/2079",
+    "Gold_Price_Per_Tola": "103200"
+  },
+  {
+    "Date_AD": "01/10/2023",
+    "Date_BS": "09/26/2079",
+    "Gold_Price_Per_Tola": "103500"
+  },
+  {
+    "Date_AD": "01/09/2023",
+    "Date_BS": "09/25/2079",
+    "Gold_Price_Per_Tola": "103900"
+  },
+  {
+    "Date_AD": "01/08/2023",
+    "Date_BS": "09/24/2079",
+    "Gold_Price_Per_Tola": "103300"
+  },
+  {
+    "Date_AD": "01/06/2023",
+    "Date_BS": "09/22/2079",
+    "Gold_Price_Per_Tola": "102300"
+  },
+  {
+    "Date_AD": "01/05/2023",
+    "Date_BS": "09/21/2079",
+    "Gold_Price_Per_Tola": "103100"
+  },
+  {
+    "Date_AD": "01/04/2023",
+    "Date_BS": "09/20/2079",
+    "Gold_Price_Per_Tola": "102900"
+  },
+  {
+    "Date_AD": "01/03/2023",
+    "Date_BS": "09/19/2079",
+    "Gold_Price_Per_Tola": "102600"
+  },
+  {
+    "Date_AD": "01/02/2023",
+    "Date_BS": "09/18/2079",
+    "Gold_Price_Per_Tola": "101700"
+  },
+  {
+    "Date_AD": "01/01/2023",
+    "Date_BS": "09/17/2079",
+    "Gold_Price_Per_Tola": "101700"
+  },
+  {
+    "Date_AD": "Date in A.D",
+    "Date_BS": "Date In B.S",
+    "Gold_Price_Per_Tola": "Gold Rate Per Tola"
+  },
+  {
+    "Date_AD": "12/30/2022",
+    "Date_BS": "09/15/2079",
+    "Gold_Price_Per_Tola": "101400"
+  },
+  {
+    "Date_AD": "12/29/2022",
+    "Date_BS": "09/14/2079",
+    "Gold_Price_Per_Tola": "100900"
+  },
+  {
+    "Date_AD": "12/28/2022",
+    "Date_BS": "09/13/2079",
+    "Gold_Price_Per_Tola": "101100"
+  },
+  {
+    "Date_AD": "12/27/2022",
+    "Date_BS": "09/12/2079",
+    "Gold_Price_Per_Tola": "100700"
+  },
+  {
+    "Date_AD": "12/26/2022",
+    "Date_BS": "09/11/2079",
+    "Gold_Price_Per_Tola": "100500"
+  },
+  {
+    "Date_AD": "12/25/2022",
+    "Date_BS": "09/10/2079",
+    "Gold_Price_Per_Tola": "100500"
+  },
+  {
+    "Date_AD": "12/23/2022",
+    "Date_BS": "09/08/2079",
+    "Gold_Price_Per_Tola": "100300"
+  },
+  {
+    "Date_AD": "12/22/2022",
+    "Date_BS": "09/07/2079",
+    "Gold_Price_Per_Tola": "101500"
+  },
+  {
+    "Date_AD": "12/21/2022",
+    "Date_BS": "09/06/2079",
+    "Gold_Price_Per_Tola": "101200"
+  },
+  {
+    "Date_AD": "12/20/2022",
+    "Date_BS": "09/05/2079",
+    "Gold_Price_Per_Tola": "100400"
+  },
+  {
+    "Date_AD": "12/19/2022",
+    "Date_BS": "09/04/2079",
+    "Gold_Price_Per_Tola": "100500"
+  },
+  {
+    "Date_AD": "12/18/2022",
+    "Date_BS": "09/03/2079",
+    "Gold_Price_Per_Tola": "100500"
+  },
+  {
+    "Date_AD": "12/16/2022",
+    "Date_BS": "09/01/2079",
+    "Gold_Price_Per_Tola": "99900"
+  },
+  {
+    "Date_AD": "12/15/2022",
+    "Date_BS": "08/29/2079",
+    "Gold_Price_Per_Tola": "100300"
+  },
+  {
+    "Date_AD": "12/14/2022",
+    "Date_BS": "08/28/2079",
+    "Gold_Price_Per_Tola": "101000"
+  },
+  {
+    "Date_AD": "12/13/2022",
+    "Date_BS": "08/27/2079",
+    "Gold_Price_Per_Tola": "100000"
+  },
+  {
+    "Date_AD": "12/12/2022",
+    "Date_BS": "08/26/2079",
+    "Gold_Price_Per_Tola": "100200"
+  },
+  {
+    "Date_AD": "12/11/2022",
+    "Date_BS": "08/25/2079",
+    "Gold_Price_Per_Tola": "100500"
+  },
+  {
+    "Date_AD": "12/09/2022",
+    "Date_BS": "08/23/2079",
+    "Gold_Price_Per_Tola": "100300"
+  },
+  {
+    "Date_AD": "12/08/2022",
+    "Date_BS": "08/22/2079",
+    "Gold_Price_Per_Tola": "99700"
+  },
+  {
+    "Date_AD": "12/07/2022",
+    "Date_BS": "08/21/2079",
+    "Gold_Price_Per_Tola": "99300"
+  },
+  {
+    "Date_AD": "12/06/2022",
+    "Date_BS": "08/20/2079",
+    "Gold_Price_Per_Tola": "99300"
+  },
+  {
+    "Date_AD": "12/05/2022",
+    "Date_BS": "08/19/2079",
+    "Gold_Price_Per_Tola": "99900"
+  },
+  {
+    "Date_AD": "12/04/2022",
+    "Date_BS": "08/18/2079",
+    "Gold_Price_Per_Tola": "99500"
+  },
+  {
+    "Date_AD": "12/02/2022",
+    "Date_BS": "08/16/2079",
+    "Gold_Price_Per_Tola": "99100"
+  },
+  {
+    "Date_AD": "12/01/2022",
+    "Date_BS": "08/15/2079",
+    "Gold_Price_Per_Tola": "98100"
+  },
+  {
+    "Date_AD": "11/30/2022",
+    "Date_BS": "08/14/2079",
+    "Gold_Price_Per_Tola": "97600"
+  },
+  {
+    "Date_AD": "11/29/2022",
+    "Date_BS": "08/13/2079",
+    "Gold_Price_Per_Tola": "97400"
+  },
+  {
+    "Date_AD": "11/28/2022",
+    "Date_BS": "08/12/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "11/27/2022",
+    "Date_BS": "08/11/2079",
+    "Gold_Price_Per_Tola": "97800"
+  },
+  {
+    "Date_AD": "11/25/2022",
+    "Date_BS": "08/09/2079",
+    "Gold_Price_Per_Tola": "97800"
+  },
+  {
+    "Date_AD": "11/24/2022",
+    "Date_BS": "08/08/2079",
+    "Gold_Price_Per_Tola": "97800"
+  },
+  {
+    "Date_AD": "11/23/2022",
+    "Date_BS": "08/07/2079",
+    "Gold_Price_Per_Tola": "96800"
+  },
+  {
+    "Date_AD": "11/22/2022",
+    "Date_BS": "08/06/2079",
+    "Gold_Price_Per_Tola": "97200"
+  },
+  {
+    "Date_AD": "11/21/2022",
+    "Date_BS": "08/05/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "11/18/2022",
+    "Date_BS": "08/02/2079",
+    "Gold_Price_Per_Tola": "98100"
+  },
+  {
+    "Date_AD": "11/17/2022",
+    "Date_BS": "08/01/2079",
+    "Gold_Price_Per_Tola": "98000"
+  },
+  {
+    "Date_AD": "11/16/2022",
+    "Date_BS": "07/30/2079",
+    "Gold_Price_Per_Tola": "98400"
+  },
+  {
+    "Date_AD": "11/15/2022",
+    "Date_BS": "07/29/2079",
+    "Gold_Price_Per_Tola": "98200"
+  },
+  {
+    "Date_AD": "11/14/2022",
+    "Date_BS": "07/28/2079",
+    "Gold_Price_Per_Tola": "97200"
+  },
+  {
+    "Date_AD": "11/13/2022",
+    "Date_BS": "07/27/2079",
+    "Gold_Price_Per_Tola": "97300"
+  },
+  {
+    "Date_AD": "11/11/2022",
+    "Date_BS": "07/25/2079",
+    "Gold_Price_Per_Tola": "96700"
+  },
+  {
+    "Date_AD": "11/10/2022",
+    "Date_BS": "07/24/2079",
+    "Gold_Price_Per_Tola": "95400"
+  },
+  {
+    "Date_AD": "11/09/2022",
+    "Date_BS": "07/23/2079",
+    "Gold_Price_Per_Tola": "95400"
+  },
+  {
+    "Date_AD": "11/08/2022",
+    "Date_BS": "07/22/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "11/07/2022",
+    "Date_BS": "07/21/2079",
+    "Gold_Price_Per_Tola": "94200"
+  },
+  {
+    "Date_AD": "11/06/2022",
+    "Date_BS": "07/20/2079",
+    "Gold_Price_Per_Tola": "94500"
+  },
+  {
+    "Date_AD": "11/04/2022",
+    "Date_BS": "07/18/2079",
+    "Gold_Price_Per_Tola": "93100"
+  },
+  {
+    "Date_AD": "11/03/2022",
+    "Date_BS": "07/17/2079",
+    "Gold_Price_Per_Tola": "93200"
+  },
+  {
+    "Date_AD": "11/02/2022",
+    "Date_BS": "07/16/2079",
+    "Gold_Price_Per_Tola": "93600"
+  },
+  {
+    "Date_AD": "11/01/2022",
+    "Date_BS": "07/15/2079",
+    "Gold_Price_Per_Tola": "93100"
+  },
+  {
+    "Date_AD": "10/31/2022",
+    "Date_BS": "07/14/2079",
+    "Gold_Price_Per_Tola": "93000"
+  },
+  {
+    "Date_AD": "10/30/2022",
+    "Date_BS": "07/13/2079",
+    "Gold_Price_Per_Tola": "93000"
+  },
+  {
+    "Date_AD": "10/24/2022",
+    "Date_BS": "07/07/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "10/23/2022",
+    "Date_BS": "07/06/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "10/22/2022",
+    "Date_BS": "07/05/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "10/21/2022",
+    "Date_BS": "07/04/2079",
+    "Gold_Price_Per_Tola": "92500"
+  },
+  {
+    "Date_AD": "10/20/2022",
+    "Date_BS": "07/03/2079",
+    "Gold_Price_Per_Tola": "93100"
+  },
+  {
+    "Date_AD": "10/19/2022",
+    "Date_BS": "07/02/2079",
+    "Gold_Price_Per_Tola": "93200"
+  },
+  {
+    "Date_AD": "10/18/2022",
+    "Date_BS": "07/01/2079",
+    "Gold_Price_Per_Tola": "93400"
+  },
+  {
+    "Date_AD": "10/17/2022",
+    "Date_BS": "06/31/2079",
+    "Gold_Price_Per_Tola": "93300"
+  },
+  {
+    "Date_AD": "10/16/2022",
+    "Date_BS": "06/30/2079",
+    "Gold_Price_Per_Tola": "93100"
+  },
+  {
+    "Date_AD": "10/14/2022",
+    "Date_BS": "06/28/2079",
+    "Gold_Price_Per_Tola": "94100"
+  },
+  {
+    "Date_AD": "10/13/2022",
+    "Date_BS": "06/27/2079",
+    "Gold_Price_Per_Tola": "94200"
+  },
+  {
+    "Date_AD": "10/12/2022",
+    "Date_BS": "06/26/2079",
+    "Gold_Price_Per_Tola": "94200"
+  },
+  {
+    "Date_AD": "10/11/2022",
+    "Date_BS": "06/25/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "10/10/2022",
+    "Date_BS": "06/24/2079",
+    "Gold_Price_Per_Tola": "95200"
+  },
+  {
+    "Date_AD": "10/09/2022",
+    "Date_BS": "06/23/2079",
+    "Gold_Price_Per_Tola": "96000"
+  },
+  {
+    "Date_AD": "10/01/2022",
+    "Date_BS": "06/15/2079",
+    "Gold_Price_Per_Tola": "93000"
+  },
+  {
+    "Date_AD": "09/30/2022",
+    "Date_BS": "06/14/2079",
+    "Gold_Price_Per_Tola": "93000"
+  },
+  {
+    "Date_AD": "09/29/2022",
+    "Date_BS": "06/13/2079",
+    "Gold_Price_Per_Tola": "92800"
+  },
+  {
+    "Date_AD": "09/28/2022",
+    "Date_BS": "06/12/2079",
+    "Gold_Price_Per_Tola": "91600"
+  },
+  {
+    "Date_AD": "09/27/2022",
+    "Date_BS": "06/11/2079",
+    "Gold_Price_Per_Tola": "91400"
+  },
+  {
+    "Date_AD": "09/26/2022",
+    "Date_BS": "06/10/2079",
+    "Gold_Price_Per_Tola": "91800"
+  },
+  {
+    "Date_AD": "09/25/2022",
+    "Date_BS": "06/09/2079",
+    "Gold_Price_Per_Tola": "91800"
+  },
+  {
+    "Date_AD": "09/23/2022",
+    "Date_BS": "06/07/2079",
+    "Gold_Price_Per_Tola": "92800"
+  },
+  {
+    "Date_AD": "09/22/2022",
+    "Date_BS": "06/06/2079",
+    "Gold_Price_Per_Tola": "91800"
+  },
+  {
+    "Date_AD": "09/21/2022",
+    "Date_BS": "06/05/2079",
+    "Gold_Price_Per_Tola": "91300"
+  },
+  {
+    "Date_AD": "09/20/2022",
+    "Date_BS": "06/04/2079",
+    "Gold_Price_Per_Tola": "91800"
+  },
+  {
+    "Date_AD": "09/19/2022",
+    "Date_BS": "06/03/2079",
+    "Gold_Price_Per_Tola": "91400"
+  },
+  {
+    "Date_AD": "09/18/2022",
+    "Date_BS": "06/02/2079",
+    "Gold_Price_Per_Tola": "91800"
+  },
+  {
+    "Date_AD": "09/16/2022",
+    "Date_BS": "05/31/2079",
+    "Gold_Price_Per_Tola": "91500"
+  },
+  {
+    "Date_AD": "09/15/2022",
+    "Date_BS": "05/30/2079",
+    "Gold_Price_Per_Tola": "92500"
+  },
+  {
+    "Date_AD": "09/14/2022",
+    "Date_BS": "05/29/2079",
+    "Gold_Price_Per_Tola": "92800"
+  },
+  {
+    "Date_AD": "09/13/2022",
+    "Date_BS": "05/28/2079",
+    "Gold_Price_Per_Tola": "93500"
+  },
+  {
+    "Date_AD": "09/12/2022",
+    "Date_BS": "05/27/2079",
+    "Gold_Price_Per_Tola": "93600"
+  },
+  {
+    "Date_AD": "09/11/2022",
+    "Date_BS": "05/26/2079",
+    "Gold_Price_Per_Tola": "93900"
+  },
+  {
+    "Date_AD": "09/09/2022",
+    "Date_BS": "05/24/2079",
+    "Gold_Price_Per_Tola": "93900"
+  },
+  {
+    "Date_AD": "09/08/2022",
+    "Date_BS": "05/23/2079",
+    "Gold_Price_Per_Tola": "93800"
+  },
+  {
+    "Date_AD": "09/07/2022",
+    "Date_BS": "05/22/2079",
+    "Gold_Price_Per_Tola": "93000"
+  },
+  {
+    "Date_AD": "09/06/2022",
+    "Date_BS": "05/21/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "09/05/2022",
+    "Date_BS": "05/20/2079",
+    "Gold_Price_Per_Tola": "93700"
+  },
+  {
+    "Date_AD": "09/04/2022",
+    "Date_BS": "05/19/2079",
+    "Gold_Price_Per_Tola": "93600"
+  },
+  {
+    "Date_AD": "09/02/2022",
+    "Date_BS": "05/17/2079",
+    "Gold_Price_Per_Tola": "93000"
+  },
+  {
+    "Date_AD": "09/01/2022",
+    "Date_BS": "05/16/2079",
+    "Gold_Price_Per_Tola": "93100"
+  },
+  {
+    "Date_AD": "08/31/2022",
+    "Date_BS": "05/15/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "08/30/2022",
+    "Date_BS": "05/14/2079",
+    "Gold_Price_Per_Tola": "94800"
+  },
+  {
+    "Date_AD": "08/29/2022",
+    "Date_BS": "05/13/2079",
+    "Gold_Price_Per_Tola": "94500"
+  },
+  {
+    "Date_AD": "08/28/2022",
+    "Date_BS": "05/12/2079",
+    "Gold_Price_Per_Tola": "95100"
+  },
+  {
+    "Date_AD": "08/26/2022",
+    "Date_BS": "05/10/2079",
+    "Gold_Price_Per_Tola": "95800"
+  },
+  {
+    "Date_AD": "08/25/2022",
+    "Date_BS": "05/09/2079",
+    "Gold_Price_Per_Tola": "95800"
+  },
+  {
+    "Date_AD": "08/24/2022",
+    "Date_BS": "05/08/2079",
+    "Gold_Price_Per_Tola": "95300"
+  },
+  {
+    "Date_AD": "08/23/2022",
+    "Date_BS": "05/07/2079",
+    "Gold_Price_Per_Tola": "95000"
+  },
+  {
+    "Date_AD": "08/22/2022",
+    "Date_BS": "05/06/2079",
+    "Gold_Price_Per_Tola": "95300"
+  },
+  {
+    "Date_AD": "08/21/2022",
+    "Date_BS": "05/05/2079",
+    "Gold_Price_Per_Tola": "95500"
+  },
+  {
+    "Date_AD": "08/19/2022",
+    "Date_BS": "05/03/2079",
+    "Gold_Price_Per_Tola": "95500"
+  },
+  {
+    "Date_AD": "08/18/2022",
+    "Date_BS": "05/02/2079",
+    "Gold_Price_Per_Tola": "95900"
+  },
+  {
+    "Date_AD": "08/17/2022",
+    "Date_BS": "05/01/2079",
+    "Gold_Price_Per_Tola": "96200"
+  },
+  {
+    "Date_AD": "08/16/2022",
+    "Date_BS": "04/31/2079",
+    "Gold_Price_Per_Tola": "96700"
+  },
+  {
+    "Date_AD": "08/15/2022",
+    "Date_BS": "04/30/2079",
+    "Gold_Price_Per_Tola": "97400"
+  },
+  {
+    "Date_AD": "08/14/2022",
+    "Date_BS": "04/29/2079",
+    "Gold_Price_Per_Tola": "97800"
+  },
+  {
+    "Date_AD": "08/12/2022",
+    "Date_BS": "04/27/2079",
+    "Gold_Price_Per_Tola": "97300"
+  },
+  {
+    "Date_AD": "08/11/2022",
+    "Date_BS": "04/26/2079",
+    "Gold_Price_Per_Tola": "96600"
+  },
+  {
+    "Date_AD": "08/10/2022",
+    "Date_BS": "04/25/2079",
+    "Gold_Price_Per_Tola": "97100"
+  },
+  {
+    "Date_AD": "08/09/2022",
+    "Date_BS": "04/24/2079",
+    "Gold_Price_Per_Tola": "96900"
+  },
+  {
+    "Date_AD": "08/08/2022",
+    "Date_BS": "04/23/2079",
+    "Gold_Price_Per_Tola": "96300"
+  },
+  {
+    "Date_AD": "08/07/2022",
+    "Date_BS": "04/22/2079",
+    "Gold_Price_Per_Tola": "96300"
+  },
+  {
+    "Date_AD": "08/05/2022",
+    "Date_BS": "04/20/2079",
+    "Gold_Price_Per_Tola": "96800"
+  },
+  {
+    "Date_AD": "08/04/2022",
+    "Date_BS": "04/19/2079",
+    "Gold_Price_Per_Tola": "96100"
+  },
+  {
+    "Date_AD": "08/03/2022",
+    "Date_BS": "04/18/2079",
+    "Gold_Price_Per_Tola": "95300"
+  },
+  {
+    "Date_AD": "08/02/2022",
+    "Date_BS": "04/17/2079",
+    "Gold_Price_Per_Tola": "95600"
+  },
+  {
+    "Date_AD": "08/01/2022",
+    "Date_BS": "04/16/2079",
+    "Gold_Price_Per_Tola": "95400"
+  },
+  {
+    "Date_AD": "07/31/2022",
+    "Date_BS": "04/15/2079",
+    "Gold_Price_Per_Tola": "95800"
+  },
+  {
+    "Date_AD": "07/29/2022",
+    "Date_BS": "04/13/2079",
+    "Gold_Price_Per_Tola": "95600"
+  },
+  {
+    "Date_AD": "07/28/2022",
+    "Date_BS": "04/12/2079",
+    "Gold_Price_Per_Tola": "94800"
+  },
+  {
+    "Date_AD": "07/27/2022",
+    "Date_BS": "04/11/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "07/25/2022",
+    "Date_BS": "04/09/2079",
+    "Gold_Price_Per_Tola": "94400"
+  },
+  {
+    "Date_AD": "07/24/2022",
+    "Date_BS": "04/08/2079",
+    "Gold_Price_Per_Tola": "94500"
+  },
+  {
+    "Date_AD": "07/22/2022",
+    "Date_BS": "04/06/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "07/21/2022",
+    "Date_BS": "04/05/2079",
+    "Gold_Price_Per_Tola": "93000"
+  },
+  {
+    "Date_AD": "07/20/2022",
+    "Date_BS": "04/04/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "07/19/2022",
+    "Date_BS": "04/03/2079",
+    "Gold_Price_Per_Tola": "93800"
+  },
+  {
+    "Date_AD": "07/18/2022",
+    "Date_BS": "04/02/2079",
+    "Gold_Price_Per_Tola": "94000"
+  },
+  {
+    "Date_AD": "07/17/2022",
+    "Date_BS": "04/01/2079",
+    "Gold_Price_Per_Tola": "93600"
+  },
+  {
+    "Date_AD": "07/15/2022",
+    "Date_BS": "03/31/2079",
+    "Gold_Price_Per_Tola": "93800"
+  },
+  {
+    "Date_AD": "07/14/2022",
+    "Date_BS": "03/30/2079",
+    "Gold_Price_Per_Tola": "94600"
+  },
+  {
+    "Date_AD": "07/13/2022",
+    "Date_BS": "03/29/2079",
+    "Gold_Price_Per_Tola": "94300"
+  },
+  {
+    "Date_AD": "07/12/2022",
+    "Date_BS": "03/28/2079",
+    "Gold_Price_Per_Tola": "94500"
+  },
+  {
+    "Date_AD": "07/11/2022",
+    "Date_BS": "03/27/2079",
+    "Gold_Price_Per_Tola": "94700"
+  },
+  {
+    "Date_AD": "07/10/2022",
+    "Date_BS": "03/26/2079",
+    "Gold_Price_Per_Tola": "94800"
+  },
+  {
+    "Date_AD": "07/08/2022",
+    "Date_BS": "03/24/2079",
+    "Gold_Price_Per_Tola": "94600"
+  },
+  {
+    "Date_AD": "07/07/2022",
+    "Date_BS": "03/23/2079",
+    "Gold_Price_Per_Tola": "94600"
+  },
+  {
+    "Date_AD": "07/06/2022",
+    "Date_BS": "03/22/2079",
+    "Gold_Price_Per_Tola": "96000"
+  },
+  {
+    "Date_AD": "07/05/2022",
+    "Date_BS": "03/21/2079",
+    "Gold_Price_Per_Tola": "97600"
+  },
+  {
+    "Date_AD": "07/04/2022",
+    "Date_BS": "03/20/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "07/03/2022",
+    "Date_BS": "03/19/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "07/01/2022",
+    "Date_BS": "03/17/2079",
+    "Gold_Price_Per_Tola": "97200"
+  },
+  {
+    "Date_AD": "06/30/2022",
+    "Date_BS": "03/16/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "06/29/2022",
+    "Date_BS": "03/15/2079",
+    "Gold_Price_Per_Tola": "97800"
+  },
+  {
+    "Date_AD": "06/28/2022",
+    "Date_BS": "03/14/2079",
+    "Gold_Price_Per_Tola": "97700"
+  },
+  {
+    "Date_AD": "06/27/2022",
+    "Date_BS": "03/13/2079",
+    "Gold_Price_Per_Tola": "97700"
+  },
+  {
+    "Date_AD": "06/26/2022",
+    "Date_BS": "03/12/2079",
+    "Gold_Price_Per_Tola": "97300"
+  },
+  {
+    "Date_AD": "06/24/2022",
+    "Date_BS": "03/10/2079",
+    "Gold_Price_Per_Tola": "97200"
+  },
+  {
+    "Date_AD": "06/23/2022",
+    "Date_BS": "03/09/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "06/22/2022",
+    "Date_BS": "03/08/2079",
+    "Gold_Price_Per_Tola": "97300"
+  },
+  {
+    "Date_AD": "06/21/2022",
+    "Date_BS": "03/07/2079",
+    "Gold_Price_Per_Tola": "97700"
+  },
+  {
+    "Date_AD": "06/20/2022",
+    "Date_BS": "03/06/2079",
+    "Gold_Price_Per_Tola": "97700"
+  },
+  {
+    "Date_AD": "06/19/2022",
+    "Date_BS": "03/05/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "06/17/2022",
+    "Date_BS": "03/03/2079",
+    "Gold_Price_Per_Tola": "97800"
+  },
+  {
+    "Date_AD": "06/16/2022",
+    "Date_BS": "02/03/2079",
+    "Gold_Price_Per_Tola": "97300"
+  },
+  {
+    "Date_AD": "06/15/2022",
+    "Date_BS": "01/03/2079",
+    "Gold_Price_Per_Tola": "96500"
+  },
+  {
+    "Date_AD": "06/14/2022",
+    "Date_BS": "31/02/2079",
+    "Gold_Price_Per_Tola": "97100"
+  },
+  {
+    "Date_AD": "06/13/2022",
+    "Date_BS": "30/02/2079",
+    "Gold_Price_Per_Tola": "98900"
+  },
+  {
+    "Date_AD": "06/12/2022",
+    "Date_BS": "29/02/2079",
+    "Gold_Price_Per_Tola": "99200"
+  },
+  {
+    "Date_AD": "06/10/2022",
+    "Date_BS": "27/02/2079",
+    "Gold_Price_Per_Tola": "97700"
+  },
+  {
+    "Date_AD": "06/09/2022",
+    "Date_BS": "26/02/2079",
+    "Gold_Price_Per_Tola": "98000"
+  },
+  {
+    "Date_AD": "06/08/2022",
+    "Date_BS": "25/02/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "06/07/2022",
+    "Date_BS": "24/02/2079",
+    "Gold_Price_Per_Tola": "97500"
+  },
+  {
+    "Date_AD": "06/06/2022",
+    "Date_BS": "23/02/2079",
+    "Gold_Price_Per_Tola": "98100"
+  },
+  {
+    "Date_AD": "06/05/2022",
+    "Date_BS": "22/02/2079",
+    "Gold_Price_Per_Tola": "97900"
+  },
+  {
+    "Date_AD": "06/02/2022",
+    "Date_BS": "19/02/2079",
+    "Gold_Price_Per_Tola": "97600"
+  },
+  {
+    "Date_AD": "06/01/2022",
+    "Date_BS": "18/02/2079",
+    "Gold_Price_Per_Tola": "97200"
+  },
+  {
+    "Date_AD": "05/31/2022",
+    "Date_BS": "17/02/2079",
+    "Gold_Price_Per_Tola": "98000"
+  }
+]
