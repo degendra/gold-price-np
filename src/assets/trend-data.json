@@ -1,5 +1,10 @@
 [
   {
+    "Date_AD": "10/16/2026",
+    "Date_BS": "06/30/2083",
+    "Gold_Price_Per_Tola": "290100"
+  },
+  {
     "Date_AD": "10/15/2026",
     "Date_BS": "06/29/2083",
     "Gold_Price_Per_Tola": "288400"
